@@ -25,5 +25,5 @@ typedef struct{
 bool tree_insert(struct tree *t, struct company *comp,
     int (*cmp)(const struct company *, const struct company *));
 struct company *stock_create( char* symbol, char *name, double price);
-
 struct tree* tree_create(struct company* comp);
+struct company* make_company( char* string);

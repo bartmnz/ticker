@@ -32,3 +32,4 @@ int check_value(const struct company *first, const struct company *second);
 struct tree* pop_tree( struct tree* root);
 void tree_destroy( struct tree* root);
 struct tree* read_file(char* filename);
+void user_input(struct tree* farce);

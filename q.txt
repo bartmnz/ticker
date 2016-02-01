@@ -1,0 +1,833 @@
+A	Agilent Technologies, Inc. Comm
+AA	Alcoa Inc. Common Stock
+AAP	Advance Auto Parts Inc Advance 
+AAV	Advantage Oil & Gas Ltd  Ordina
+AB	AllianceBernstein Holding L.P. 
+ABC	AmerisourceBergen Corporation C
+ABG	Asbury Automotive Group Inc Com
+ABM	ABM Industries Incorporated Com
+ACC	American Campus Communities Inc
+ACE	N/A
+ACG	Alliancebernstein Income Fund
+ACH	Aluminum Corporation of China L
+ACO	N/A
+ACTV	N/A
+ACW	Accuride Corporation Common Sto
+ADC	Agree Realty Corporation Common
+ADM	Archer-Daniels-Midland Company 
+ADY	N/A
+AEE	Ameren Corporation Common Stock
+AEH	AEGON N.V. Perp. Cap Secs.
+AEL	American Equity Investment Life
+AEM	Agnico Eagle Mines Limited Comm
+AFC	Allied Capital Corporation Alli
+AFL	AFLAC Incorporated Common Stock
+AG	First Majestic Silver Corp. Ord
+AGCO	AGCO Corporation Common Stock
+AGD	Alpine Global Dynamic Dividend 
+AGM	Federal Agricultural Mortgage C
+AGN	Allergan plc Ordinary Shares
+AGO	Assured Guaranty Ltd. Common St
+AGU	Agrium Inc. Common Stock
+AHC	A.H. Belo Corporation Common St
+AI	Arlington Asset Investment Corp
+AIB	Apollo Investment Corporation 6
+AIG	American International Group, I
+AIQ	Alliance HealthCare Services, I
+AIV	Apartment Investment and Manage
+AIZ	Assurant, Inc. Common Stock
+AJG	Arthur J. Gallagher & Co. Commo
+AKS	AK Steel Holding Corporation Co
+ALJ	Alon USA Energy, Inc. common st
+ALV	Autoliv, Inc. Common Stock
+AMD	Advanced Micro Devices, Inc.
+AME	AMETEK, Inc.
+AMID	American Midstream Partners, LP
+AMT	American Tower Corporation (REI
+AMX	America Movil, S.A.B. de C.V. A
+AN	AutoNation, Inc. Common Stock
+ANF	Abercrombie & Fitch Company Com
+AOD	Alpine Total Dynamic Dividend F
+APF	Morgan Stanley Asia-Pacific Fun
+APH	Amphenol Corporation Common Sto
+APO	Apollo Global Management, LLC C
+APU	AmeriGas Partners, L.P. Common 
+ARCO	Arcos Dorados Holdings Inc. Cla
+ARG	Airgas, Inc. Common Stock
+ARI	Apollo Commercial Real Estate F
+ARL	American Realty Investors, Inc.
+ART	N/A
+ARW	Arrow Electronics, Inc. Common 
+ASG	Liberty All-Star Growth Fund, I
+ASP	N/A
+ATO	Atmos Energy Corporation Common
+ATT	N/A
+ATU	Actuant Corporation Common Stoc
+AU	AngloGold Ashanti Limited Commo
+AUO	AU Optronics Corp American Depo
+AVK	Advent Claymore Convertible Sec
+AVP	Avon Products, Inc. Common Stoc
+AWH	Allied World Assurance Company 
+AWK	American Water Works Company, I
+AZO	AutoZone, Inc. Common Stock
+AZZ	AZZ Inc.
+B	Barnes Group, Inc. Common Stock
+BA	Boeing Company (The) Common Sto
+BAF	BlackRock Municipal Income Inve
+BBK	Blackrock Municipal Bond Trust
+BBN	BlackRock Taxable Municipal Bon
+BBT	BB&T Corporation Common Stock
+BBW	Build-A-Bear Workshop, Inc. Com
+BBX	BBX Capital Corporation Common 
+BBY	Best Buy Co., Inc. Common Stock
+BC	Brunswick Corporation Common St
+BCA	Corpbanca Sponsored Reg S GDR r
+BCE	BCE, Inc. Common Stock
+BCH	Banco De Chile Banco De Chile A
+BCS	Barclays PLC Common Stock
+BCX	BlackRock Resources Common Shar
+BEN	Franklin Resources, Inc. Common
+BFO	Blackrock Florida Municipal 202
+BFS	Saul Centers, Inc. Common Stock
+BG	Bunge Limited Bunge Limited
+BGG	Briggs & Stratton Corporation C
+BHK	Blackrock Core Bond Trust Black
+BID	Sotheby's Common Stock
+BIN	Progressive Waste Solutions Ltd
+BKD	Brookdale Senior Living Inc. Co
+BME	Blackrock Health Sciences Trust
+BMS	Bemis Company, Inc. Common Stoc
+BNA	N/A
+BNS	Bank Nova Scotia Halifax Pfd 3 
+BOH	Bank of Hawaii Corporation Comm
+BOX	Box, Inc. Class A Common Stock
+BP	BP p.l.c. Common Stock
+BPI	Bridgepoint Education, Inc.
+BQH	Blackrock New York Municipal Bo
+BRC	Brady Corporation Common Stock
+BRT	BRT Realty Trust Common Stock
+BSE	Blackrock New York Municipal In
+BSI	Alon Blue Square Israel Ltd.
+BSX	Boston Scientific Corporation C
+BTO	John Hancock Financial Opportun
+BTZ	BlackRock Credit Allocation Inc
+BXC	Bluelinx Holdings Inc. Common S
+BXP	Boston Properties, Inc. Common 
+BXS	BancorpSouth, Inc. Common Stock
+BYD	Boyd Gaming Corporation Common 
+C	Citigroup, Inc. Common Stock
+CAH	Cardinal Health, Inc. Common St
+CAJ	Canon, Inc. American Depositary
+CALX	Calix, Inc Common Stock
+CAS	Castle (A.M.) & Co. Common Stoc
+CATO	Cato Corporation (The) Class A 
+CBB	Cincinnati Bell Inc. Common Sto
+CBD	Companhia Brasileira de Distrib
+CBI	Chicago Bridge & Iron Company N
+CBK	Christopher & Banks Corporation
+CBM	Cambrex Corporation Common Stoc
+CBT	Cabot Corporation Common Stock
+CBU	Community Bank System, Inc. Com
+CBZ	CBIZ, Inc. Common Stock
+CCC	Calgon Carbon Corporation Commo
+CCE	Coca-Cola Enterprises, Inc. Com
+CCH	N/A
+CCI	Crown Castle International Corp
+CCO	Clear Channel Outdoor Holdings,
+CDE	Coeur Mining, Inc. Common Stock
+CE	Celanese Corporation Celanese C
+CEC	N/A
+CEG	N/A
+CEM	ClearBridge Energy MLP Fund Inc
+CF	CF Industries Holdings, Inc. Co
+CFI	Culp, Inc. Common Stock
+CFX	Colfax Corporation Common Stock
+CGA	China Green Agriculture, Inc. C
+CGI	Celadon Group, Inc. Common Stoc
+CHC	N/A
+CHMT	Chemtura Corp. Common Stock
+CHN	China Fund, Inc. (The) Common S
+CHS	Chico's FAS, Inc. Common Stock
+CHSP	Chesapeake Lodging Trust Common
+CIA	Citizens, Inc. Class A Common S
+CIB	BanColombia S.A. Common Stock
+CIE	Cobalt International Energy, In
+CIG	Comp En De Mn Cemig ADS America
+CII	Blackrock Capital and Income Fu
+CIS	N/A
+CIT	CIT Group Inc (DEL) Common Stoc
+CJES	C&J Energy Services, Ltd. Commo
+CLD	Cloud Peak Energy Inc Common St
+CLDT	Chatham Lodging Trust (REIT) Co
+CLF	Cliffs Natural Resources Inc Co
+CLGX	CoreLogic, Inc. Common Stock
+CLNY	Colony Capital, Inc. Class A Co
+CLR	Continental Resources, Inc. Com
+CLS	Celestica, Inc. Common Stock
+CLW	Clearwater Paper Corporation Co
+CM	Canadian Imperial Bank of Comme
+CMC	Commercial Metals Company Commo
+CMI	Cummins Inc. Common Stock
+CMP	Compass Minerals Intl Inc Commo
+CMU	MFS Municipal Income Trust Comm
+CNA	CNA Financial Corporation Commo
+CNL	Cleco Corporation Common Stock
+CNO	CNO Financial Group, Inc. Commo
+CNQ	Canadian Natural Resources Limi
+CO	China Cord Blood Corporation Co
+CODI	Compass Diversified Holdings Sh
+COF	Capital One Financial Corporati
+COG	Cabot Oil & Gas Corporation Com
+COL	Rockwell Collins, Inc. Common S
+COT	Cott Corporation Common Stock
+COY	N/A
+CP	Canadian Pacific Railway Limite
+CPB	Campbell Soup Company Common St
+CPN	Calpine Corporation Common Stoc
+CR	Crane Company Common Stock
+CRY	CryoLife, Inc. Common Stock
+CSA	Victory CEMP US Small Cap Volat
+CSL	Carlisle Companies Incorporated
+CSQ	Calamos Strategic Total Return 
+CSV	Carriage Services, Inc. Common 
+CSX	CSX Corporation
+CTB	Cooper Tire & Rubber Company Co
+CTQ	Qwest Corporation 7.375% Notes 
+CTS	CTS Corporation Common Stock
+CUB	Cubic Corporation Common Stock
+CUZ	Cousins Properties Incorporated
+CVA	Covanta Holding Corporation Com
+CVB	Lehman ABS Corporation 7.75% Co
+CVC	Cablevision Systems Corporation
+CVS	CVS Health Corporation Common S
+CW	Curtiss-Wright Corporation Comm
+CWT	California Water Service Group 
+CYH	Community Health Systems, Inc. 
+DAC	Danaos Corporation Common Stock
+DAL	Delta Air Lines, Inc. Common St
+DANG	E-Commerce China Dangdang Inc. 
+DAR	Darling Ingredients Inc. Common
+DCI	Donaldson Company, Inc. Common 
+DCM	NTT DOCOMO, Inc American Deposi
+DCO	Ducommun Incorporated Common St
+DD	E.I. du Pont de Nemours and Com
+DDD	3D Systems Corporation Common S
+DDF	Delaware Investments Dividend &
+DDS	Dillard's, Inc. Common Stock
+DDT	Dillard's Capital Trust I
+DEO	Diageo plc Common Stock
+DEP	N/A
+DFG	N/A
+DFP	Flaherty & Crumrine Dynamic Pre
+DFT	Dupont Fabros Technology, Inc. 
+DG	Dollar General Corporation Comm
+DHG	Deutsche High Income Opportunit
+DHT	DHT Holdings, Inc.
+DHX	DHI Group, Inc. Common Stock
+DIS	Walt Disney Company (The) Commo
+DLB	Dolby Laboratories Common Stock
+DLX	Deluxe Corporation Common Stock
+DO	Diamond Offshore Drilling, Inc.
+DOX	Amdocs Limited
+DPM	DCP Midstream Partners, LP DCP 
+DPZ	Domino's Pizza Inc Common Stock
+DQ	DAQO New Energy Corp. American 
+DRH	Diamondrock Hospitality Company
+DRI	Darden Restaurants, Inc. Common
+DRL	N/A
+DSU	Blackrock Debt Strategies Fund,
+DSW	DSW Inc. Common Stock
+DTE	DTE Energy Company Common Stock
+DV	DeVry Education Group Inc. Comm
+DVA	DaVita HealthCare Partners Inc.
+DVN	Devon Energy Corporation Common
+DW	Drew Industries Incorporated Co
+DXB	Deutsche Bk Contingent Cap TR I
+DYN	Dynegy Inc. Common Stock
+E	ENI S.p.A. Common Stock
+EAA	Entergy Arkansas, Inc. First Mo
+EAT	Brinker International, Inc. Com
+EBF	Ennis, Inc. Common Stock
+EC	Ecopetrol S.A. American Deposit
+EDE	Empire District Electric Compan
+EDR	Education Realty Trust, Inc. Co
+EEP	Enbridge Energy, L.P. Class A C
+EGY	Vaalco Energy Inc Common Stock
+EIX	Edison International Common Sto
+ELA	Entergy Louisiana, LLC First Mo
+ELB	Entergy Louisiana, Inc. 6.0% Se
+EMQ	Entergy Mississippi, Inc. 1st M
+ENH	Endurance Specialty Holdings Lt
+ENI	ENERSIS AMRICAS S.A.
+ENR	Energizer Holdings, Inc. Common
+ENS	Enersys Common Stock
+EOG	EOG Resources, Inc. Common Stoc
+EPD	Enterprise Products Partners L.
+EPR	EPR Properties Common Stock
+EQR	Equity Residential Common Share
+EQS	Equus Total Return, Inc. Common
+ERF	Enerplus Corporation Common Sto
+ESE	ESCO Technologies Inc. Common S
+ESS	Essex Property Trust, Inc. Comm
+ESV	Ensco plc Class A Ordinary Shar
+ETG	Eaton Vance Tax-Advantaged Glob
+ETP	Energy Transfer Partners, L.P. 
+ETY	Eaton Vance Tax-Managed Diversi
+EVC	Entravision Communications Corp
+EVN	Eaton Vance Municipal Income Tr
+EXAM	ExamWorks Group, Inc. Common St
+EXC	Exelon Corporation Common Stock
+EXR	Extra Space Storage Inc Common 
+FBR	Fibria Celulose S.A.
+FCH	FelCor Lodging Trust Incorporat
+FCS	Fairchild Semiconductor Interna
+FCT	First Trust Senior Floating Rat
+FCX	Freeport-McMoRan, Inc. Common S
+FDP	Fresh Del Monte Produce, Inc. C
+FDX	FedEx Corporation Common Stock
+FFA	First Trust Enhanced Equity Inc
+FFC	Flaherty & Crumrine Preferred S
+FGB	First Trust Specialty Finance a
+FGF	N/A
+FHN	First Horizon National Corporat
+FICO	Fair Isaac Corproation Common S
+FIS	Fidelity National Information S
+FL	Foot Locker, Inc.
+FLC	Flaherty & Crumrine Total Retur
+FLO	Flowers Foods, Inc. Common Stoc
+FLS	Flowserve Corporation Common St
+FLT	FleetCor Technologies, Inc. Com
+FLY	Fly Leasing Limited
+FMO	Fiduciary/Claymore MLP Opportun
+FOE	Ferro Corporation Common Stock
+FOF	Cohen & Steers Closed-End Oppor
+FOR	Forestar Group Inc Common Stock
+FPT	Federated Premier Intermediate 
+FRC	FIRST REPUBLIC BANK Common Stoc
+FRM	Furmanite Corporation Common St
+FRT	Federal Realty Investment Trust
+FSC	Fifth Street Finance Corp.
+FSR	N/A
+FSS	Federal Signal Corporation Comm
+FUR	Winthrop Realty Trust New Commo
+FXCM	FXCM Inc. Class A Common Stock
+GAB	Gabelli Equity Trust, Inc. (The
+GAS	AGL Resources, Inc. Common Stoc
+GBAB	Guggenheim Build America Bonds 
+GCAP	GAIN Capital Holdings, Inc. Com
+GCH	Aberdeen Greater China Fund, In
+GD	General Dynamics Corporation Co
+GDI	N/A
+GDL	GDL Fund, The Common Shares of 
+GDV	Gabelli Dividend & Income Trust
+GEO	Geo Group Inc (The) REIT
+GES	Guess?, Inc. Common Stock
+GET	N/A
+GFA	Gafisa SA Gafisa S.A. American 
+GFF	Griffon Corporation Common Stoc
+GG	Goldcorp Inc. Common Stock
+GGB	Gerdau S.A. Common Stock
+GGE	Guggenheim Enhanced Equity Stra
+GGG	Graco Inc. Common Stock
+GHL	Greenhill & Co., Inc. Common St
+GIL	Gildan Activewear, Inc. Class A
+GIS	General Mills, Inc. Common Stoc
+GJR	Synthetic Fixed-Income Securiti
+GLT	Glatfelter Common Stock
+GM	General Motors Company Common S
+GME	Gamestop Corporation Common Sto
+GNT	GAMCO Natural Resources, Gold &
+GPC	Genuine Parts Company Common St
+GPK	Graphic Packaging Holding Compa
+GPS	Gap, Inc. (The) Common Stock
+GR	N/A
+GRA	W.R. Grace & Co. Common Stock
+GRX	The Gabelli Healthcare & Wellne
+GTS	Triple-S Management Corporation
+GUA	Gulf Power Company Series 2011A
+GUT	Gabelli Utility Trust (The) Com
+H	Hyatt Hotels Corporation Class 
+HAL	Halliburton Company Common Stoc
+HAR	Harman International Industries
+HAV	N/A
+HBC	N/A
+HBI	Hanesbrands Inc. Common Stock
+HBM	Hudbay Minerals Inc Ordinary Sh
+HE	Hawaiian Electric Industries, I
+HEP	Holly Energy Partners, L.P. Com
+HHS	Harte-Hanks, Inc. Common Stock
+HHY	Brookfield High Income Fund Inc
+HI	Hillenbrand Inc Common Stock
+HIG	Hartford Financial Services Gro
+HIL	Hill International, Inc. Common
+HIO	Western Asset High Income Oppor
+HIT	N/A
+HIW	Highwoods Properties, Inc. Comm
+HJO	N/A
+HK	Halcon Resources Corporation Co
+HL	Hecla Mining Company Common Sto
+HLF	Herbalife Ltd. Common Stock
+HNT	Health Net Inc. Common Stock
+HOG	Harley-Davidson, Inc. Common St
+HPI	John Hancock Preferred Income F
+HPS	John Hancock Preferred Income F
+HPY	Heartland Payment Systems, Inc.
+HR	Healthcare Realty Trust Incorpo
+HRZ	N/A
+HT	Hersha Hospitality Trust Class 
+HTH	Hilltop Holdings Inc.
+HTR	Brookfield Total Return Fund In
+HTS	Hatteras Financial Corp Hattera
+HTZ	Hertz Global Holdings, Inc Comm
+HUN	Huntsman Corporation Common Sto
+HW	Headwaters Incorporated Common 
+HYB	New America High Income Fund, I
+HYH	Halyard Health, Inc. Common Sto
+HYI	Western Asset High Yield Define
+HZO	MarineMax, Inc.  (FL) Common St
+IAE	Voya Asia Pacific High Dividend
+IAG	Iamgold Corporation Ordinary Sh
+IBI	N/A
+ICA	Empresas Ica Soc Contrladora Co
+ICB	MS Income Securities, Inc. Comm
+IDT	IDT Corporation Class B Common 
+IEP	Icahn Enterprises L.P.
+IEX	IDEX Corporation Common Stock
+IFF	Internationa Flavors & Fragranc
+IGR	CBRE Clarion Global Real Estate
+IHC	Independence Holding Company Co
+IIM	Invesco Value Municipal Income 
+IL	IntraLinks Holdings, Inc. Commo
+IMAX	Imax Corporation Common Stock
+IMC	N/A
+IMN	Imation Corporation Common Stoc
+IMS	IMS Health Holdings, Inc. Commo
+INXN	InterXion Holding N.V. Ordinary
+IPG	Interpublic Group of Companies,
+IQI	Invesco Quality Municipal Incom
+IRF	N/A
+ISF	ING Group, N.V. Perp Hybrid Cap
+ISP	ING Groep NV 6.20% Perpetual De
+ITT	ITT Corporation Common Stock Ne
+ITW	Illinois Tool Works Inc. Common
+IVR	INVESCO MORTGAGE CAPITAL INC Co
+IVZ	Invesco Ltd Common Stock
+IX	Orix Corp Ads Common Stock
+JAH	Jarden Corporation Common Stock
+JBK	Lehman ABS 3.50 3.50% Adjustabl
+JBR	Select Asset Inc. Corporate Bac
+JCI	Johnson Controls, Inc. Common S
+JEC	Jacobs Engineering Group Inc. C
+JFC	JPMorgan China Region  Fund, In
+JFR	Nuveen Floating Rate Income Fun
+JNS	Janus Capital Group, Inc. Cmn S
+JOE	St. Joe Company (The) Common St
+JQC	Nuveen Credit Strategies Income
+JSD	Nuveen Short Duration Credit Op
+JSM	SLM Corporation
+KCC	Structured Products Corp. 8.20%
+KEG	Key Energy Services, Inc. Commo
+KEX	Kirby Corporation Common Stock
+KF	Korea Fund, Inc. (The) New Comm
+KMB	Kimberly-Clark Corporation Comm
+KMX	CarMax Inc
+KND	Kindred Healthcare, Inc. Common
+KO	Coca-Cola Company (The) Common 
+KOF	Coca Cola Femsa S.A.B. de C.V. 
+KOG	N/A
+KR	Kroger Company (The) Common Sto
+KRC	Kilroy Realty Corporation Commo
+KRG	Kite Realty Group Trust Common 
+KRO	Kronos Worldwide Inc Common Sto
+KSM	Deutsche Strategic Municiple In
+KT	KT Corporation Common Stock
+KWR	Quaker Chemical Corporation Com
+L	Loews Corporation Common Stock
+LAD	Lithia Motors, Inc. Common Stoc
+LAZ	Lazard LTD. Lazard, LTD. Class 
+LCC	N/A
+LFC	China Life Insurance Company Li
+LG	Laclede Gas Company Common Stoc
+LGF	Lions Gate Entertainment Corpor
+LL	Lumber Liquidators Holdings, In
+LLY	Eli Lilly and Company Common St
+LM	Legg Mason, Inc. Common Stock
+LMT	Lockheed Martin Corporation Com
+LNC	Lincoln National Corporation Co
+LOR	Lazard World Dividend & Income 
+LOW	Lowe's Companies, Inc. Common S
+LPS	N/A
+LRN	K12 Inc Common Stock
+LTC	LTC Properties, Inc. Common Sto
+LUV	Southwest Airlines Company Comm
+LXK	Lexmark International, Inc. Com
+LXP	Lexington Realty Trust Common S
+LXU	LSB Industries, Inc. Common Sto
+LYG	Lloyds Banking Group Plc Americ
+LYV	Live Nation Entertainment, Inc.
+MAA	Mid-America Apartment Communiti
+MAC	Macerich Company (The) Common S
+MAV	Pioneer Municipal High Income A
+MBT	Mobile TeleSystems PJSC
+MCD	McDonald's Corporation Common S
+MCO	Moody's Corporation Common Stoc
+MCR	MFS Charter Income Trust Common
+MD	Mednax, Inc. Common Stock
+MDS	N/A
+MDU	MDU Resources Group, Inc. Commo
+MED	MEDIFAST INC Common Stock
+MEN	Blackrock MuniEnhanced Fund, In
+MFA	MFA Financial, Inc.
+MFC	Manulife Financial Corporation 
+MFV	MFS Special Value Trust Common 
+MGM	MGM Resorts International Commo
+MHI	Pioneer Municipal High Income T
+MHN	Blackrock MuniHoldings New York
+MHO	M/I Homes, Inc. Common Stock
+MHY	Western Asset Managed High Inco
+MIM	N/A
+MJH	N/A
+MJN	Mead Johnson Nutrition Company 
+MKC	McCormick & Company, Incorporat
+MLG	N/A
+MLI	Mueller Industries, Inc. Common
+MLP	Maui Land & Pineapple Company, 
+MMC	Marsh & McLennan Companies, Inc
+MMI	Marcus & Millichap, Inc. Common
+MMR	N/A
+MNE	Blackrock Muni New York Interme
+MNI	McClatchy Company (The) Common 
+MNP	Western Asset Municipal Partner
+MNR	Monmouth Real Estate Investment
+MOS	Mosaic Company (The) Common Sto
+MPA	Blackrock MuniYield Pennsylvani
+MPG	Metaldyne Performance Group Inc
+MPW	Medical Properties Trust, Inc. 
+MR	Mindray Medical International L
+MRK	Merck & Company, Inc. Common St
+MRO	Marathon Oil Corporation Common
+MSCI	MSCI Inc Common Stock
+MSF	Morgan Stanley Emerging Markets
+MSI	Motorola Solutions, Inc. Common
+MSM	MSC Industrial Direct Company, 
+MTB	M&T Bank Corporation Common Sto
+MTD	Mettler-Toledo International, I
+MTOR	Meritor, Inc. Common Stock
+MTRN	Materion Corporation
+MTU	Mitsubishi UFJ Financial Group,
+MUA	Blackrock MuniAssets Fund, Inc 
+MUE	Blackrock MuniHoldings Quality 
+MVO	MV Oil Trust Units of Beneficia
+MWG	Morgan Stanley Cap Tr IV Gtd Ca
+MXL	MaxLinear, Inc Class A Common S
+MY	China Ming Yang Wind Power Grou
+MYI	Blackrock MuniYield Quality Fun
+MYN	Blackrock MuniYield New York Qu
+N	Netsuite Inc Common Stock
+NAD	Nuveen Dividend Advantage Munic
+NAI	N/A
+NAN	Nuveen New York Dividend Advant
+NAT	Nordic American Tankers Limited
+NAV	Navistar International Corporat
+NAZ	Nuveen Arizona Premium Income M
+NBB	Nuveen Build America Bond Fund 
+NBD	Nuveen Build America Bond Oppor
+NBL	Noble Energy Inc. Common Stock
+NC	NACCO Industries, Inc. Common S
+NCI	Navigant Consulting, Inc. Commo
+NCZ	AllianzGI Convertible & Income 
+NDN	N/A
+NED	N/A
+NEE	NextEra Energy, Inc. Common Sto
+NFJ	AllianzGI NFJ Dividend, Interes
+NGG	National Grid Transco, PLC Nati
+NGS	Natural Gas Services Group, Inc
+NGT	N/A
+NI	NiSource Inc Common Stock
+NJ	Nidec Corporation (Nihon Densan
+NKA	Niska Gas Storage Partners LLC 
+NKE	Nike, Inc. Common Stock
+NL	NL Industries, Inc. Common Stoc
+NLS	Nautilus, Inc. Common Stock
+NMM	Navios Maritime Partners LP Com
+NMO	Nuveen Municipal Market Opportu
+NMY	Nuveen Maryland Premium Income 
+NNN	National Retail Properties Comm
+NOAH	Noah Holdings Limited
+NOC	Northrop Grumman Corporation Co
+NOV	National Oilwell Varco, Inc. Co
+NPK	National Presto Industries, Inc
+NPT	Nuveen Premium Income Municipal
+NPTN	NeoPhotonics Corporation Common
+NPV	Nuveen Virginia Premium Income 
+NQI	Nuveen Quality Municipal Fund, 
+NQS	Nuveen Select Quality Municipal
+NRF	NorthStar Realty Finance Corp. 
+NS	Nustar Energy L.P.  Common Unit
+NSL	Nuveen Senior Income Fund Commo
+NSM	Nationstar Mortgage Holdings In
+NSR	Neustar, Inc. Neustar, Inc. Cla
+NTG	Tortoise MLP Fund, Inc. Common 
+NTX	Nuveen Texas Quality Income Mun
+NTZ	Natuzzi, S.p.A.
+NUC	N/A
+NUS	Nu Skin Enterprises, Inc. Commo
+NUW	Nuveen AMT-Free Municipal Value
+NWY	New York & Company, Inc. New Yo
+NX	Quanex Building Products Corpor
+NXN	Nuveen New York Select Tax-Free
+NXP	Nuveen Select Tax Free Income P
+NYT	New York Times Company (The) Co
+OB	OneBeacon Insurance Group, Ltd.
+OC	Owens Corning Inc Common Stock 
+OFC	Corporate Office Properties Tru
+OGE	OGE Energy Corporation Common S
+OMC	Omnicom Group Inc. Common Stock
+OMI	Owens & Minor, Inc. Common Stoc
+PAC	Grupo Aeroportuario Del Pacific
+PAG	Penske Automotive Group, Inc. C
+PAM	Pampa Energia S.A. Pampa Energi
+PAY	Verifone Systems, Inc. Common S
+PBY	Pep Boys-Manny, Moe & Jack (The
+PCF	Putnam High Income Securities F
+PCN	Pimco Corporate & Income Strate
+PCQ	PIMCO California Municipal Inco
+PEB	Pebblebrook Hotel Trust Common 
+PEG	Public Service Enterprise Group
+PEO	Adams Natural Resources Fund, I
+PER	SandRidge Permian Trust Common 
+PFL	PIMCO Income Strategy Fund Shar
+PFO	Flaherty & Crumrine Preferred I
+PGR	Progressive Corporation (The) C
+PH	Parker-Hannifin Corporation Com
+PHA	N/A
+PHG	Koninklijke Philips N.V. NY Reg
+PHH	PHH Corp Common Stock
+PHK	Pimco High Income Fund Pimco Hi
+PHX	Panhandle Oil and Gas Inc Commo
+PIM	Putnam Master Intermediate Inco
+PJC	Piper Jaffray Companies Common 
+PJR	N/A
+PJS	PreferredPlus Trust Ser FAR 1 T
+PJT	PJT Partners Inc. Class A Commo
+PLD	ProLogis, Inc. Common Stock
+PM	Philip Morris International Inc
+PMC	Pharmerica Corporation Common S
+PMI	N/A
+PMT	PennyMac Mortgage Investment Tr
+PMX	PIMCO Municipal Income Fund III
+PNC	PNC Financial Services Group, I
+PNI	Pimco New York Municipal Income
+PNK	Pinnacle Entertainment, Inc.
+PNX	Phoenix Companies, Inc. (The) C
+PNY	Piedmont Natural Gas Company, I
+POM	PEPCO Holdings, Inc Common Stoc
+POT	Potash Corporation of Saskatche
+PPG	PPG Industries, Inc. Common Sto
+PPR	Voya Prime Rate Trust Shares of
+PPS	Post Properties, Inc. Common St
+PRA	ProAssurance Corporation Common
+PRGN	Paragon Shipping Inc.
+PRI	Primerica, Inc. Common Stock
+PSA	Public Storage Common Stock
+PSW	N/A
+PT	N/A
+PVA	N/A
+PVD	N/A
+PWE	Penn West Petroleum Ltd
+PZE	Petrobras Argentina S.A. ADS
+PZN	Pzena Investment Management Inc
+QEP	QEP Resources, Inc. Common Stoc
+RAD	Rite Aid Corporation Common Sto
+RAX	Rackspace Hosting, Inc Common S
+RBC	Regal Beloit Corporation Common
+RBS	Royal Bank of Scotland Group Pl
+RCL	Royal Caribbean Cruises Ltd. Co
+RDN	Radian Group Inc. Common Stock
+RDY	Dr. Reddy's Laboratories Ltd Co
+RE	Everest Re Group, Ltd. Common S
+REN	Resolute Energy Corporation Com
+RES	RPC, Inc. Common Stock
+REV	Revlon, Inc. New Common Stock
+REX	REX American Resources Corporat
+RF	Regions Financial Corporation C
+RFI	Cohen & Steers Total Return Rea
+RGA	Reinsurance Group of America, I
+RGC	Regal Entertainment Group Class
+RGS	Regis Corporation Common Stock
+RHI	Robert Half International Inc. 
+RIG	Transocean Ltd (Switzerland) Co
+RLD	RealD Inc Common Stock
+RLJ	RLJ Lodging Trust Common Shares
+RNR	RenaissanceRe Holdings Ltd. Com
+ROP	Roper Technologies, Inc. Common
+RRC	Range Resources Corporation Com
+RSO	Resource Capital Corp. Resource
+RY	Royal Bank Of Canada Common Sto
+RYN	Rayonier Inc. REIT Common Stock
+SAN	Banco Santander, S.A. Sponsored
+SBH	Sally Beauty Holdings, Inc. (Na
+SBW	Western Asset Worldwide Income 
+SCD	LMP Capital and Income Fund Inc
+SCG	SCANA Corporation Common Stock
+SDT	SandRidge Mississippian Trust I
+SFI	N/A
+SFL	Ship Finance International Limi
+SFN	Stifel Financial Corporation 5.
+SGU	Star Gas Partners, L.P. Common 
+SHG	Shinhan Financial Group Co Ltd 
+SHO	Sunstone Hotel Investors, Inc. 
+SHP	N/A
+SHS	N/A
+SHW	Sherwin-Williams Company (The) 
+SJI	South Jersey Industries, Inc. C
+SJT	San Juan Basin Royalty Trust Co
+SJW	SJW Corporation Common Stock
+SKS	N/A
+SKY	Skyline Corporation Common Stoc
+SLB	Schlumberger N.V. Common Stock
+SLF	Sun Life Financial Inc. Common 
+SM	SM Energy Company Common Stock
+SNA	Snap-On Incorporated Common Sto
+SNH	Senior Housing Properties Trust
+SNN	Smith & Nephew SNATS, Inc. Comm
+SNP	China Petroleum & Chemical Corp
+SOL	Renesola Ltd. Common Shares of 
+SON	Sonoco Products Company Common 
+SPB	Spectrum Brands Holdings, Inc. 
+SPE	Special Opportunities Fund, Inc
+SQM	Sociedad Quimica y Minera S.A. 
+SRI	Stoneridge, Inc. Common Stock
+SSD	Simpson Manufacturing Company, 
+SSP	E.W. Scripps Company (The) Comm
+SSS	Sovran Self Storage, Inc. Commo
+STAG	Stag Industrial, Inc. Common St
+STC	Stewart Information Services Co
+STD	N/A
+STE	STERIS plc Ordinary Shares
+STN	Stantec Inc Common Stock
+STO	Statoil ASA
+STR	Questar Corporation
+STRI	N/A
+STT	State Street Corporation
+STV	China Digital TV Holding Co., L
+STZ	Constellation Brands, Inc. Comm
+SUG	N/A
+SUI	Sun Communities, Inc. Common St
+SUP	Superior Industries Internation
+SWI	Solarwinds, Inc. Common Stock
+SWZ	Swiss Helvetia Fund, Inc. (The)
+SXI	Standex International Corporati
+SXT	Sensient Technologies Corporati
+SYK	Stryker Corporation Common Stoc
+TAM	N/A
+TBI	TrueBlue, Inc. Common Stock
+TCAP	Triangle Capital Corporation Co
+TD	Toronto Dominion Bank (The) Com
+TDE	Telephone and Data Systems, Inc
+TDW	Tidewater Inc. Common Stock
+TDY	Teledyne Technologies Incorpora
+TEF	Telefonica SA Common Stock
+TEN	Tenneco Inc. Common Stock
+TEX	Terex Corporation Common Stock
+TG	Tredegar Corporation Common Sto
+TGH	Textainer Group Holdings Limite
+TGS	Transportadora de Gas del Sur S
+TGT	Target Corporation Common Stock
+THO	Thor Industries, Inc. Common St
+THR	Thermon Group Holdings, Inc. Co
+THS	Treehouse Foods, Inc. Common St
+TJX	TJX Companies, Inc. (The) Commo
+TK	Teekay Corporation Common Stock
+TKF	Turkish Investment Fund, Inc. (
+TLI	LMP Corporate Loan Fund Inc Com
+TLK	PT Telekomunikasi Indonesia, Tb
+TMH	Team Health Holdings, Inc. Team
+TMK	Torchmark Corporation Common St
+TNC	Tennant Company Common Stock
+TNP	Tsakos Energy Navigation Ltd Co
+TOO	Teekay Offshore Partners L.P. C
+TPL	Texas Pacific Land Trust Common
+TPZ	Tortoise Power and Energy Infra
+TRGP	Targa Resources, Inc. Common St
+TRN	Trinity Industries, Inc. Common
+TRNO	Terreno Realty Corporation Comm
+TRU	TransUnion Common Stock
+TSI	TCW Strategic Income Fund, Inc.
+TSN	Tyson Foods, Inc. Common Stock
+TSO	Tesoro Corporation Common Stock
+TTC	Toro Company (The) Common Stock
+TTF	Thai Fund, Inc. (The) Common St
+TTI	Tetra Technologies, Inc. Common
+TUP	Tupperware Brands Corporation C
+TVE	Tennessee Valley Authority
+TWI	Titan International, Inc. (DE) 
+TWN	Taiwan Fund, Inc. (The) Common 
+TWO	Two Harbors Investment Corp
+TWX	Time Warner Inc. New Common Sto
+TY	Tri Continental Corporation Com
+TYL	Tyler Technologies, Inc. Common
+UBA	Urstadt Biddle Properties Inc. 
+UFI	Unifi, Inc. New Common Stock
+UHS	Universal Health Services, Inc.
+UL	Unilever PLC Common Stock
+UN	Unilever NV Common Stock
+UNM	Unum Group Common Stock
+UPS	United Parcel Service, Inc. Com
+URI	United Rentals, Inc. Common Sto
+USB	U.S. Bancorp Common Stock
+USM	United States Cellular Corporat
+UTI	Universal Technical Institute I
+UZA	United States Cellular Corporat
+VCI	N/A
+VCO	Vina Concha Y Toro Common Stock
+VIA	Viacom Inc.
+VIT	N/A
+VKQ	Invesco Municipal Trust Common 
+VMO	Invesco Municipal Opportunity T
+VNR	Vanguard Natural Resources LLC
+VSH	Vishay Intertechnology, Inc. Co
+VTA	Invesco Credit Opportunities Fu
+VVC	Vectren Corporation Common Stoc
+VZ	Verizon Communications Inc. Com
+WAIR	Wesco Aircraft Holdings, Inc. C
+WAT	Waters Corporation Common Stock
+WBK	Westpac Banking Corporation Com
+WBS	Webster Financial Corporation C
+WCC	WESCO International, Inc. Commo
+WDC	Western Digital Corporation
+WDR	Waddell & Reed Financial, Inc. 
+WEA	Western Asset Bond Fund Share o
+WF	Woori Bank American Depositary 
+WFR	N/A
+WFT	Weatherford International plc (
+WGL	WGL Holdings IncCommon Stock
+WGO	Winnebago Industries, Inc. Comm
+WHG	Westwood Holdings Group Inc Com
+WLL	Whiting Petroleum Corporation C
+WM	Waste Management, Inc. Common S
+WMB	Williams Companies, Inc. (The) 
+WMS	Advanced Drainage Systems, Inc.
+WNC	Wabash National Corporation Com
+WNS	WNS (Holdings) Limited Sponsore
+WOR	Worthington Industries, Inc. Co
+WPI	N/A
+WR	Westar Energy, Inc. Common Stoc
+WRB	W.R. Berkley Corporation Common
+WRE	Washington Real Estate Investme
+WTI	W&T Offshore, Inc. Common Stock
+WTM	White Mountains Insurance Group
+WTR	Aqua America, Inc. Common Stock
+WU	Western Union Company (The) Com
+X	United States Steel Corporation
+XCO	EXCO Resources, Inc. Exco Resou
+XEC	Cimarex Energy Co Common Stock
+XIN	Xinyuan Real Estate Co Ltd Amer
+XKE	Lehman ABS Corporation Corporat
+XKK	N/A
+XL	XL Group plc
+XOM	Exxon Mobil Corporation Common 
+XRS	TAL Education Group American De
+YZC	Yanzhou Coal Mining Company Lim
+ZF	Zweig Fund, Inc. (The) Common S
+ZTR	Zweig Total Return Fund, Inc. (

@@ -1,5 +1,2 @@
 JJ 55.50 Some Name here
-BB 44.5 Other Name here
-AA 33.2 n
-ZZ 1111111.5 
-MM 3232 
+BB 44 other stuff

@@ -6,6 +6,7 @@
 bool tree_insert(struct tree *t, struct company *comp,
     int (*cmp)(const struct company *, const struct company *))
 {
+    bool rValue = false;
     if(cmp(comp, t->data) == -1) {
         if (t->left) {
             return tree_insert(t->left, comp, cmp);
@@ -25,10 +26,18 @@ bool tree_insert(struct tree *t, struct company *comp,
     } else if( check_symbol(comp, t->data) == 0){ // using the same symbol
         int temp = t->data->cents + comp->cents;
         if (temp > 0){
-            return (t->data->cents = temp);
+            t->data->cents = temp;
+            rValue = true;
         } else{
             fprintf(stderr, "ERROR: stock price cannot be less than $.01\n");
         }
+        free(comp->name);
+        free(comp);
+        return rValue;
+    } else{
+        free(comp->name);
+        free(comp);
+        return rValue;
     }
     return false;
 }
@@ -39,14 +48,12 @@ bool tree_insert(struct tree *t, struct company *comp,
 struct company *stock_create( char* symbol, char *name, double price)
 {
     struct company *new_stock = malloc(sizeof(*new_stock));
-    printf("%ld\n", (long) new_stock);
     if(!new_stock){
         return NULL;
     }
     
     new_stock->name = strdup(name);
     if( !new_stock->name ){
-        printf("free %ld\n", (long) new_stock);
         free (new_stock);
         return NULL;
     }
@@ -67,7 +74,6 @@ struct tree* tree_create(struct company* comp){
     tree->data = comp;
     tree->left = NULL;
     tree->right = NULL;
-    printf("%s\n %ld\n", tree->data->symbol, (long) tree);
     return tree;
 }
 
@@ -78,12 +84,10 @@ struct tree* tree_create(struct company* comp){
 struct company* make_company( char* string){
     const char *symb, *value, *title;
     struct company* newComp = malloc(sizeof(struct company));
-    printf("i%ld\n", (long) newComp);
     memset(newComp, 0, sizeof(struct company));
     // get ticker symbol
     symb = strtok(string, " ");
     if (strnlen(symb, 6) > 5){
-        printf("free %ld\n", (long) newComp);
         free(newComp);
         return NULL;
     } else {
@@ -95,13 +99,11 @@ struct company* make_company( char* string){
     char *end;
     value = strtok(NULL, " ");
     if (!value || strnlen(value, 11) > 10){ // value is out of bounds or nonexistant
-        printf("free %ld\n", (long) newComp);
         free(newComp);
         return NULL;
     }
     dollars = strtod(value, &end);
     if( value == end){ // did not successfully convert a number.
-        printf("free %ld\n", (long) newComp);
         free(newComp);
         return NULL;
     }
@@ -112,7 +114,6 @@ struct company* make_company( char* string){
     if (title){
         int len = strnlen(title, 65);
         newComp->name = malloc(len+1);
-        printf("*%ld\n", (long) newComp->name);
         memset(newComp->name, 0, len+1);
         strcpy( newComp->name, title);
         if(title[len-1] == '\n'){
@@ -168,14 +169,12 @@ struct tree* pop_tree( struct tree* root){
         if (temp == root->left){
             root->left = NULL;
         }
-        printf("in %ld\n", (long) temp);
         return temp;
     }else if ( root->right){
         temp = pop_tree(root->right);
         if (temp == root->right){
             root->right = NULL;
         }
-        printf("in %ld\n", (long) temp);
         return temp;
     } else return root;
 }
@@ -195,11 +194,8 @@ void tree_destroy( struct tree* root){
         tree_destroy(root->right);
         root->right = NULL;
     }
-    printf("freeing %s \n", root->data->symbol);
-    printf("free %ld\n", (long) root);
     free(root->data->name);
     free(root->data);
-    //free(&(root->data));
     free(root);
     
 }
@@ -231,7 +227,6 @@ struct tree* read_file(char* filename){
         fprintf(stderr, "ERROR: could not open file. Check filename and permissions.\n");
     }
     struct tree* farce = malloc(sizeof(struct tree));
-    printf("b%ld\n", (long) farce);
     memset( farce, 0, sizeof(struct tree));
     if (! farce){
         fprintf(stderr, "ERROR: could not allocate space.\n");
@@ -278,7 +273,6 @@ int main(int argc, char* argv[]){
         return -1;
     }
     struct tree* tree, *tempC = NULL, *tempT = malloc(sizeof(struct tree));
-    printf("a%ld\n", (long) tempT);
     memset(tempT, 0, sizeof(struct tree));
     tree = read_file(argv[1]);
     if (!tree){
@@ -286,14 +280,11 @@ int main(int argc, char* argv[]){
     }
     user_input(tree);
     while( (tempC = pop_tree(tree)) && tempC != tree){
-        printf("out %ld\n", (long) tempC);
         tree_insert(tempT, tempC->data, check_value);
         free(tempC);
     }
     tree_insert(tempT, tree->data, check_value);
     print_tree(tempT);
-    printf("out more %ld\n", (long) tempC);
-    printf("tree%ld\n", (long) tree);
     free(tree);
     tree_destroy(tempT);
 }

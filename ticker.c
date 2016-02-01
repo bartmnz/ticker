@@ -57,7 +57,8 @@ struct tree* tree_create(struct company* comp){
     return tree;
 }
 
-/* Returns a newly Malloc'd company structure derrived from the input string
+/* Returns a newly Malloc'd company structure with Malloc'd string name
+ * derrived from the input string company name
  * if string is invalid returns NULL
  */
 struct company* make_company( char* string){
@@ -90,6 +91,8 @@ struct company* make_company( char* string){
     // get name
     title = strtok(NULL, "\0");
     if (title){
+        int len = strnlen(title, 65);
+        newComp->name = malloc(len);
         strcpy( newComp->name, title);
     }
     

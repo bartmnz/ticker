@@ -107,6 +107,23 @@ int check_symbol(const struct company *first, const struct company *second){
     return strncmp(first->symbol, second->symbol, 6);
 }
 
+/* compares value of the cents field of the two companies
+ * returns -1 if first is less than second 0 if they are equal and 1 if first is greater
+ * returns 10 if either argument is invalid
+ */
+int check_symbol(const struct company *first, const struct company *second){
+    if( ! first || ! second){
+        return 10;
+    }
+    if ( first->cents > second->cents){
+        return 1;
+    } else if (first->cents < second->cents){
+        return -1;
+    } else return 0;
+}
+
+
+
 /* program execution begins here
  *
  */

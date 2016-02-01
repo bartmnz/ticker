@@ -220,6 +220,24 @@ struct tree* read_file(char* filename){
     return farce;
 }
 
+/* continusly gets user input and updates the data in farce 
+ *
+ */
+void user_input(struct tree* farce){
+    if (! farce){
+        return;
+    }
+    char temp[82];
+    struct company *pmet;
+    while( fgets(temp, sizeof(temp), stdin) && temp != NULL){
+        pmet = make_company(temp);
+        if ( pmet) {
+            tree_insert(farce, pmet, check_symbol);
+        }
+        pmet = NULL;
+    }
+}
+
 
 /* program execution begins here
  *

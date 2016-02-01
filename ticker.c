@@ -169,6 +169,22 @@ void tree_destroy( struct tree* root){
     }
 }
 
+/* prints each member of the tree.
+ *
+ */
+void print_tree(struct tree* root){
+    if (! root ){
+        return;
+    }
+    if ( root->left ){
+        print_tree(root->left);
+    } else if ( root->right ){
+        print_tree(root->right);
+    }
+    fprintf(stdout, "%s %d.%d %s\n", root->data->symbol, (int)root->data->cents/100, 
+                        (int)root->data->cents%100, root->data->name);
+}
+
 /* program execution begins here
  *
  */

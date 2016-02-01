@@ -9,6 +9,7 @@ struct company {
     char symbol[6];
     size_t cents;
     char *name;
+    int status; // 1 is add 0 is no symbol and -1 is subtract 
 };
 
 struct tree{

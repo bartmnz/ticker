@@ -57,6 +57,24 @@ struct tree* tree_create(struct company* comp){
     return tree;
 }
 
-int main(void){
-    // do stuff here
+/* program execution begins here
+ *
+ */
+int main(int argc, char* argv[]){
+    if( argc != 2 ){
+        fprintf(stderr, "ERROR: useage is ./ticker FILENAME\n");
+    } 
+    FILE* file;
+    if ( ! (file = fopen(argv[1], "r"))){
+        fprintf(stderr, "ERROR: could not open file. Check filename and permissions.");
+    }
+    // malloc new market farce with CMP fn for strings.
+    // open file specified in argv
+    // read one line at a time line is max  symbol + space + value + sapce + name + newline 
+    // 5 + 1 + 9 + 1 + 64 + 1 bytes long 
+    // tree_insert(farce->root, make_company(input line))
+    
+    // while input 
+    // if ctrl-D print_in_order()
+    // tree_insert(farce->root, make_company(input line))
 }

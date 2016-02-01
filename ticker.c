@@ -96,6 +96,17 @@ struct company* make_company( char* string){
     return newComp;
 }
 
+/* compares the alphabetical order of the ticker symbols of the two companies.
+ * returns -1 if first before second 0 if they are equal and 1 if second is before first
+ * returns 10 if either argument is invalid
+ */
+int check_symbol(const struct company *first, const struct company *second){
+    if( ! first || ! second){
+        return 10;
+    }
+    return strncmp(first->symbol, second->symbol, 6);
+}
+
 /* program execution begins here
  *
  */

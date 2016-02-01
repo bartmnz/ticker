@@ -27,3 +27,4 @@ bool tree_insert(struct tree *t, struct company *comp,
 struct company *stock_create( char* symbol, char *name, double price);
 struct tree* tree_create(struct company* comp);
 struct company* make_company( char* string);
+int check_symbol(const struct company *first, const struct company *second);

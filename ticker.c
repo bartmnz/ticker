@@ -1,7 +1,7 @@
 #include "ticker.h"
 
 /*Code included as part of assignment 
- *
+ * modified to manipulate existing data 
  */
 bool tree_insert(struct tree *t, struct company *comp,
     int (*cmp)(const struct company *, const struct company *))
@@ -13,14 +13,24 @@ bool tree_insert(struct tree *t, struct company *comp,
             t->left = tree_create(comp);
             return t->left;
         }
-    } else {
+    } else if (cmp(comp, t->data) > 1){
         if (t->right){
             return tree_insert(t->right, comp, cmp);
         } else {
             t->right = tree_create(comp);
             return t->right;
         }
+    } else if( cmp == &check_symbol ){ // using the same symbol
+        if ( comp->status == 1){
+            return (t->data->cents += comp->cents);
+        } else if( comp->status == -1 ){
+            int temp = t->data->cents - comp->cents;
+            if (temp > 0){
+                return (t->data->cents = temp);
+            }
+        }
     }
+    return false;
 }
 
 /*Code included as part of assignment

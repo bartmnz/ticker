@@ -46,10 +46,14 @@ struct company *stock_create( char* symbol, char *name, double price)
     return new_stock;
 }
 
+/* Returns a newly Malloc'd tree with left and right nodes set to NULL and data 
+ * set as the parameter comp.
+ */
 struct tree* tree_create(struct company* comp){
-    // do stuff here
-    struct tree* tree = malloc(sizeof(struct tree*));
+    struct tree* tree = malloc(sizeof(struct tree));
     tree->data = comp;
+    tree->left = NULL;
+    tree->right = NULL;
     return tree;
 }
 

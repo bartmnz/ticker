@@ -146,6 +146,26 @@ struct tree* pop_tree( struct tree* root){
     } else return root;
 }
 
+/* Free's memory from tree and companies stored in the tree. 
+ *
+ */
+void tree_destroy( struct tree* root){
+    if (! root ){
+        return;
+    }
+    if( root->left ){
+        tree_destroy (root->left);
+        root->left = NULL;
+    } else if ( root->right ){
+        tree_destroy(root->right);
+        root->right = NULL;
+    } else {
+        free(root->data->name);
+        free(root->data);
+        free(root);
+    }
+}
+
 /* program execution begins here
  *
  */

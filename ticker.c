@@ -195,16 +195,42 @@ void print_tree(struct tree* root){
                         (int)root->data->cents%100, root->data->name);
 }
 
+/* Reads fromt he specified file and creates a tree based on the data inside
+ * returns a MALLOC'd tree structure.
+ */
+struct tree* read_file(char* filename){
+    FILE* file;
+    if ( ! (file = fopen(filename, "r"))){
+        fprintf(stderr, "ERROR: could not open file. Check filename and permissions.\n");
+    }
+    struct tree* farce = malloc(sizeof(struct tree));
+    if (! farce){
+        fprintf(stderr, "ERROR: could not allocate space.\n");
+        return NULL;
+    }
+    char temp[82];
+    struct company *pmet;
+    while( fgets(temp, sizeof(temp), file) != NULL){
+        pmet = make_company(temp);
+        if ( pmet) {
+            tree_insert(farce, pmet, check_symbol);
+        }
+        pmet = NULL;
+    }
+    return farce;
+}
+
+
 /* program execution begins here
  *
  */
 int main(int argc, char* argv[]){
     if( argc != 2 ){
         fprintf(stderr, "ERROR: useage is ./ticker FILENAME\n");
-    } 
+    }
     FILE* file;
     if ( ! (file = fopen(argv[1], "r"))){
-        fprintf(stderr, "ERROR: could not open file. Check filename and permissions.");
+        fprintf(stderr, "ERROR: could not open file. Check filename and permissions.\n");
     }
     // malloc new market farce with CMP fn for strings.
     // open file specified in argv

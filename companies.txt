@@ -1,0 +1,833 @@
+A 41.06 Agilent Technologies, Inc. Comm
+AA 9.52 Alcoa Inc. Common Stock
+AAP 149.25 Advance Auto Parts Inc Advance
+AAV 4.92 Advantage Oil & Gas Ltd Ordina
+AB 23.76 AllianceBernstein Holding L.P.
+ABC 102.30 AmerisourceBergen Corporation C
+ABG 66.16 Asbury Automotive Group Inc Com
+ABM 28.05 ABM Industries Incorporated Com
+ACC 41.25 American Campus Communities Inc
+ACE 115.01 N/A
+ACG 7.65 Alliancebernstein Income Fund
+ACH 7.87 Aluminum Corporation of China L
+ACO 11.00 N/A
+ACTV 7350.00 N/A
+ACW 1.68 Accuride Corporation Common Sto
+ADC 33.82 Agree Realty Corporation Common
+ADM 36.11 Archer-Daniels-Midland Company
+ADY 35.75 N/A
+AEE 43.13 Ameren Corporation Common Stock
+AEH 25.65 AEGON N.V. Perp. Cap Secs.
+AEL 23.54 American Equity Investment Life
+AEM 27.48 Agnico Eagle Mines Limited Comm
+AFC 25.33 Allied Capital Corporation Alli
+AFL 58.79 AFLAC Incorporated Common Stock
+AG 3.38 First Majestic Silver Corp. Ord
+AGCO 44.38 AGCO Corporation Common Stock
+AGD 8.72 Alpine Global Dynamic Dividend
+AGM 30.87 Federal Agricultural Mortgage C
+AGN 309.98 Allergan plc Ordinary Shares
+AGO 26.12 Assured Guaranty Ltd. Common St
+AGU 88.09 Agrium Inc. Common Stock
+AHC 4.94 A.H. Belo Corporation Common St
+AI 12.98 Arlington Asset Investment Corp
+AIB 25.13 Apollo Investment Corporation 6
+AIG 60.66 American International Group, I
+AIQ 9.03 Alliance HealthCare Services, I
+AIV 39.47 Apartment Investment and Manage
+AIZ 78.94 Assurant, Inc. Common Stock
+AJG 40.40 Arthur J. Gallagher & Co. Commo
+AKS 2.15 AK Steel Holding Corporation Co
+ALJ 14.57 Alon USA Energy, Inc. common st
+ALV 123.09 Autoliv, Inc. Common Stock
+AMD 2.77 Advanced Micro Devices, Inc.
+AME 52.86 AMETEK, Inc.
+AMID 8.09 American Midstream Partners, LP
+AMT 96.29 American Tower Corporation (REI
+AMX 13.75 America Movil, S.A.B. de C.V. A
+AN 59.22 AutoNation, Inc. Common Stock
+ANF 26.53 Abercrombie & Fitch Company Com
+AOD 7.54 Alpine Total Dynamic Dividend F
+APF 13.57 Morgan Stanley Asia-Pacific Fun
+APH 51.07 Amphenol Corporation Common Sto
+APO 14.98 Apollo Global Management, LLC C
+APU 34.34 AmeriGas Partners, L.P. Common
+ARCO 3.04 Arcos Dorados Holdings Inc. Cla
+ARG 138.14 Airgas, Inc. Common Stock
+ARI 17.20 Apollo Commercial Real Estate F
+ARL 5.53 American Realty Investors, Inc.
+ART 3.95 N/A
+ARW 53.18 Arrow Electronics, Inc. Common
+ASG 4.52 Liberty All-Star Growth Fund, I
+ASP 4000.00 N/A
+ATO 63.02 Atmos Energy Corporation Common
+ATT 17.91 N/A
+ATU 23.66 Actuant Corporation Common Stoc
+AU 7.24 AngloGold Ashanti Limited Commo
+AUO 2.84 AU Optronics Corp American Depo
+AVK 13.58 Advent Claymore Convertible Sec
+AVP 4.05 Avon Products, Inc. Common Stoc
+AWH 36.84 Allied World Assurance Company
+AWK 59.68 American Water Works Company, I
+AZO 742.22 AutoZone, Inc. Common Stock
+AZZ 54.50 AZZ Inc.
+B 34.66 Barnes Group, Inc. Common Stock
+BA 141.38 Boeing Company (The) Common Sto
+BAF 14.85 BlackRock Municipal Income Inve
+BBK 16.11 Blackrock Municipal Bond Trust
+BBN 20.92 BlackRock Taxable Municipal Bon
+BBT 36.91 BB&T Corporation Common Stock
+BBW 12.11 Build-A-Bear Workshop, Inc. Com
+BBX 15.42 BBX Capital Corporation Common
+BBY 29.84 Best Buy Co., Inc. Common Stock
+BC 49.65 Brunswick Corporation Common St
+BCA 11.65 Corpbanca Sponsored Reg S GDR r
+BCE 38.09 BCE, Inc. Common Stock
+BCH 57.58 Banco De Chile Banco De Chile A
+BCS 12.63 Barclays PLC Common Stock
+BCX 7.02 BlackRock Resources Common Shar
+BEN 35.63 Franklin Resources, Inc. Common
+BFO 15.06 Blackrock Florida Municipal 202
+BFS 50.79 Saul Centers, Inc. Common Stock
+BG 67.48 Bunge Limited Bunge Limited
+BGG 17.21 Briggs & Stratton Corporation C
+BHK 12.69 Blackrock Core Bond Trust Black
+BID 25.27 Sotheby's Common Stock
+BIN 23.27 Progressive Waste Solutions Ltd
+BKD 18.23 Brookdale Senior Living Inc. Co
+BME 38.52 Blackrock Health Sciences Trust
+BMS 43.93 Bemis Company, Inc. Common Stoc
+BNA 11.16 N/A
+BNS 39.82 Bank Nova Scotia Halifax Pfd 3
+BOH 62.90 Bank of Hawaii Corporation Comm
+BOX 13.46 Box, Inc. Class A Common Stock
+BP 30.79 BP p.l.c. Common Stock
+BPI 7.55 Bridgepoint Education, Inc.
+BQH 14.91 Blackrock New York Municipal Bo
+BRC 22.53 Brady Corporation Common Stock
+BRT 6.31 BRT Realty Trust Common Stock
+BSE 13.83 Blackrock New York Municipal In
+BSI 4.42 Alon Blue Square Israel Ltd.
+BSX 18.16 Boston Scientific Corporation C
+BTO 27.78 John Hancock Financial Opportun
+BTZ 12.24 BlackRock Credit Allocation Inc
+BXC 0.54 Bluelinx Holdings Inc. Common S
+BXP 125.27 Boston Properties, Inc. Common
+BXS 23.63 BancorpSouth, Inc. Common Stock
+BYD 19.45 Boyd Gaming Corporation Common
+C 50.75 Citigroup, Inc. Common Stock
+CAH 87.73 Cardinal Health, Inc. Common St
+CAJ 29.74 Canon, Inc. American Depositary
+CALX 7.71 Calix, Inc Common Stock
+CAS 1.64 Castle (A.M.) & Co. Common Stoc
+CATO 36.36 Cato Corporation (The) Class A
+CBB 3.51 Cincinnati Bell Inc. Common Sto
+CBD 10.19 Companhia Brasileira de Distrib
+CBI 38.61 Chicago Bridge & Iron Company N
+CBK 1.65 Christopher & Banks Corporation
+CBM 45.16 Cambrex Corporation Common Stoc
+CBT 40.22 Cabot Corporation Common Stock
+CBU 39.93 Community Bank System, Inc. Com
+CBZ 9.75 CBIZ, Inc. Common Stock
+CCC 17.21 Calgon Carbon Corporation Commo
+CCE 48.27 Coca-Cola Enterprises, Inc. Com
+CCH 4.50 N/A
+CCI 85.63 Crown Castle International Corp
+CCO 5.49 Clear Channel Outdoor Holdings,
+CDE 2.61 Coeur Mining, Inc. Common Stock
+CE 66.23 Celanese Corporation Celanese C
+CEC 0.05 N/A
+CEG 0.01 N/A
+CEM 14.98 ClearBridge Energy MLP Fund Inc
+CF 40.06 CF Industries Holdings, Inc. Co
+CFI 25.20 Culp, Inc. Common Stock
+CFX 22.95 Colfax Corporation Common Stock
+CGA 1.48 China Green Agriculture, Inc. C
+CGI 9.72 Celadon Group, Inc. Common Stoc
+CHC 3.00 N/A
+CHMT 26.71 Chemtura Corp. Common Stock
+CHN 15.01 China Fund, Inc. (The) Common S
+CHS 10.11 Chico's FAS, Inc. Common Stock
+CHSP 24.68 Chesapeake Lodging Trust Common
+CIA 6.98 Citizens, Inc. Class A Common S
+CIB 26.12 BanColombia S.A. Common Stock
+CIE 5.41 Cobalt International Energy, In
+CIG 1.47 Comp En De Mn Cemig ADS America
+CII 14.03 Blackrock Capital and Income Fu
+CIS 24.25 N/A
+CIT 38.93 CIT Group Inc (DEL) Common Stoc
+CJES 4.75 C&J Energy Services, Ltd. Commo
+CLD 2.03 Cloud Peak Energy Inc Common St
+CLDT 20.25 Chatham Lodging Trust (REIT) Co
+CLF 1.57 Cliffs Natural Resources Inc Co
+CLGX 33.22 CoreLogic, Inc. Common Stock
+CLNY 19.37 Colony Capital, Inc. Class A Co
+CLR 22.98 Continental Resources, Inc. Com
+CLS 10.89 Celestica, Inc. Common Stock
+CLW 44.90 Clearwater Paper Corporation Co
+CM 65.04 Canadian Imperial Bank of Comme
+CMC 13.71 Commercial Metals Company Commo
+CMI 86.75 Cummins Inc. Common Stock
+CMP 75.26 Compass Minerals Intl Inc Commo
+CMU 4.49 MFS Municipal Income Trust Comm
+CNA 34.57 CNA Financial Corporation Commo
+CNL 51.93 Cleco Corporation Common Stock
+CNO 18.70 CNO Financial Group, Inc. Commo
+CNQ 21.37 Canadian Natural Resources Limi
+CO 6.18 China Cord Blood Corporation Co
+CODI 15.83 Compass Diversified Holdings Sh
+COF 70.76 Capital One Financial Corporati
+COG 17.67 Cabot Oil & Gas Corporation Com
+COL 90.59 Rockwell Collins, Inc. Common S
+COT 10.81 Cott Corporation Common Stock
+COY 29.95 N/A
+CP 125.47 Canadian Pacific Railway Limite
+CPB 51.93 Campbell Soup Company Common St
+CPN 14.41 Calpine Corporation Common Stoc
+CR 47.24 Crane Company Common Stock
+CRY 10.72 CryoLife, Inc. Common Stock
+CSA 32.59 Victory CEMP US Small Cap Volat
+CSL 87.83 Carlisle Companies Incorporated
+CSQ 9.79 Calamos Strategic Total Return
+CSV 23.85 Carriage Services, Inc. Common
+CSX 25.37 CSX Corporation
+CTB 37.43 Cooper Tire & Rubber Company Co
+CTQ 25.37 Qwest Corporation 7.375% Notes
+CTS 17.33 CTS Corporation Common Stock
+CUB 46.43 Cubic Corporation Common Stock
+CUZ 9.34 Cousins Properties Incorporated
+CVA 15.33 Covanta Holding Corporation Com
+CVB 10.52 Lehman ABS Corporation 7.75% Co
+CVC 31.62 Cablevision Systems Corporation
+CVS 96.16 CVS Health Corporation Common S
+CW 67.12 Curtiss-Wright Corporation Comm
+CWT 23.04 California Water Service Group
+CYH 25.61 Community Health Systems, Inc.
+DAC 5.99 Danaos Corporation Common Stock
+DAL 49.41 Delta Air Lines, Inc. Common St
+DANG 7.09 E-Commerce China Dangdang Inc.
+DAR 10.37 Darling Ingredients Inc. Common
+DCI 28.16 Donaldson Company, Inc. Common
+DCM 20.61 NTT DOCOMO, Inc American Deposi
+DCO 15.95 Ducommun Incorporated Common St
+DD 65.30 E.I. du Pont de Nemours and Com
+DDD 8.47 3D Systems Corporation Common S
+DDF 8.61 Delaware Investments Dividend &
+DDS 65.09 Dillard's, Inc. Common Stock
+DDT 26.88 Dillard's Capital Trust I
+DEO 107.76 Diageo plc Common Stock
+DEP 0.24 N/A
+DFG 0.50 N/A
+DFP 22.62 Flaherty & Crumrine Dynamic Pre
+DFT 31.62 Dupont Fabros Technology, Inc.
+DG 70.93 Dollar General Corporation Comm
+DHG 12.99 Deutsche High Income Opportunit
+DHT 8.05 DHT Holdings, Inc.
+DHX 8.99 DHI Group, Inc. Common Stock
+DIS 103.12 Walt Disney Company (The) Commo
+DLB 33.11 Dolby Laboratories Common Stock
+DLX 53.90 Deluxe Corporation Common Stock
+DO 20.85 Diamond Offshore Drilling, Inc.
+DOX 53.68 Amdocs Limited
+DPM 24.65 DCP Midstream Partners, LP DCP
+DPZ 109.95 Domino's Pizza Inc Common Stock
+DQ 16.37 DAQO New Energy Corp. American
+DRH 9.56 Diamondrock Hospitality Company
+DRI 62.88 Darden Restaurants, Inc. Common
+DRL 36500.00 N/A
+DSU 3.35 Blackrock Debt Strategies Fund,
+DSW 24.49 DSW Inc. Common Stock
+DTE 79.66 DTE Energy Company Common Stock
+DV 25.02 DeVry Education Group Inc. Comm
+DVA 68.80 DaVita HealthCare Partners Inc.
+DVN 31.78 Devon Energy Corporation Common
+DW 60.09 Drew Industries Incorporated Co
+DXB 25.53 Deutsche Bk Contingent Cap TR I
+DYN 13.13 Dynegy Inc. Common Stock
+E 29.38 ENI S.p.A. Common Stock
+EAA 25.54 Entergy Arkansas, Inc. First Mo
+EAT 47.32 Brinker International, Inc. Com
+EBF 19.19 Ennis, Inc. Common Stock
+EC 7.01 Ecopetrol S.A. American Deposit
+EDE 27.86 Empire District Electric Compan
+EDR 37.63 Education Realty Trust, Inc. Co
+EEP 23.93 Enbridge Energy, L.P. Class A C
+EGY 1.59 Vaalco Energy Inc Common Stock
+EIX 58.57 Edison International Common Sto
+ELA 25.34 Entergy Louisiana, LLC First Mo
+ELB 25.29 Entergy Louisiana, Inc. 6.0% Se
+EMQ 25.96 Entergy Mississippi, Inc. 1st M
+ENH 63.29 Endurance Specialty Holdings Lt
+ENI 11.86 ENERSIS AMRICAS S.A.
+ENR 33.68 Energizer Holdings, Inc. Common
+ENS 55.09 Enersys Common Stock
+EOG 70.80 EOG Resources, Inc. Common Stoc
+EPD 25.69 Enterprise Products Partners L.
+EPR 58.20 EPR Properties Common Stock
+EQR 80.79 Equity Residential Common Share
+EQS 1.74 Equus Total Return, Inc. Common
+ERF 3.47 Enerplus Corporation Common Sto
+ESE 35.70 ESCO Technologies Inc. Common S
+ESS 238.44 Essex Property Trust, Inc. Comm
+ESV 15.38 Ensco plc Class A Ordinary Shar
+ETG 15.24 Eaton Vance Tax-Advantaged Glob
+ETP 35.04 Energy Transfer Partners, L.P.
+ETY 11.07 Eaton Vance Tax-Managed Diversi
+EVC 7.52 Entravision Communications Corp
+EVN 13.71 Eaton Vance Municipal Income Tr
+EXAM 26.12 ExamWorks Group, Inc. Common St
+EXC 27.48 Exelon Corporation Common Stock
+EXR 87.73 Extra Space Storage Inc Common
+FBR 12.73 Fibria Celulose S.A.
+FCH 7.19 FelCor Lodging Trust Incorporat
+FCS 20.51 Fairchild Semiconductor Interna
+FCT 12.23 First Trust Senior Floating Rat
+FCX 6.76 Freeport-McMoRan, Inc. Common S
+FDP 38.43 Fresh Del Monte Produce, Inc. C
+FDX 146.41 FedEx Corporation Common Stock
+FFA 12.94 First Trust Enhanced Equity Inc
+FFC 19.88 Flaherty & Crumrine Preferred S
+FGB 5.53 First Trust Specialty Finance a
+FGF 0.15 N/A
+FHN 14.22 First Horizon National Corporat
+FICO 93.33 Fair Isaac Corproation Common S
+FIS 59.52 Fidelity National Information S
+FL 64.45 Foot Locker, Inc.
+FLC 19.07 Flaherty & Crumrine Total Retur
+FLO 21.36 Flowers Foods, Inc. Common Stoc
+FLS 41.40 Flowserve Corporation Common St
+FLT 140.30 FleetCor Technologies, Inc. Com
+FLY 13.39 Fly Leasing Limited
+FMO 12.83 Fiduciary/Claymore MLP Opportun
+FOE 10.96 Ferro Corporation Common Stock
+FOF 10.85 Cohen & Steers Closed-End Oppor
+FOR 10.85 Forestar Group Inc Common Stock
+FPT 13.34 Federated Premier Intermediate
+FRC 64.84 FIRST REPUBLIC BANK Common Stoc
+FRM 6.54 Furmanite Corporation Common St
+FRT 145.16 Federal Realty Investment Trust
+FSC 6.28 Fifth Street Finance Corp.
+FSR 41.97 N/A
+FSS 15.61 Federal Signal Corporation Comm
+FUR 12.89 Winthrop Realty Trust New Commo
+FXCM 16.11 FXCM Inc. Class A Common Stock
+GAB 5.11 Gabelli Equity Trust, Inc. (The
+GAS 63.59 AGL Resources, Inc. Common Stoc
+GBAB 21.32 Guggenheim Build America Bonds
+GCAP 7.98 GAIN Capital Holdings, Inc. Com
+GCH 8.36 Aberdeen Greater China Fund, In
+GD 135.61 General Dynamics Corporation Co
+GDI 0.03 N/A
+GDL 9.96 GDL Fund, The Common Shares of
+GDV 17.77 Gabelli Dividend & Income Trust
+GEO 28.62 Geo Group Inc (The) REIT
+GES 18.52 Guess?, Inc. Common Stock
+GET 11.89 N/A
+GFA 1.13 Gafisa SA Gafisa S.A. American
+GFF 17.46 Griffon Corporation Common Stoc
+GG 11.95 Goldcorp Inc. Common Stock
+GGB 1.16 Gerdau S.A. Common Stock
+GGE 15.46 Guggenheim Enhanced Equity Stra
+GGG 70.73 Graco Inc. Common Stock
+GHL 27.99 Greenhill & Co., Inc. Common St
+GIL 27.85 Gildan Activewear, Inc. Class A
+GIS 56.84 General Mills, Inc. Common Stoc
+GJR 19.90 Synthetic Fixed-Income Securiti
+GLT 18.53 Glatfelter Common Stock
+GM 33.45 General Motors Company Common S
+GME 27.04 Gamestop Corporation Common Sto
+GNT 5.78 GAMCO Natural Resources, Gold &
+GPC 84.80 Genuine Parts Company Common St
+GPK 12.61 Graphic Packaging Holding Compa
+GPS 24.12 Gap, Inc. (The) Common Stock
+GR 0.04 N/A
+GRA 98.15 W.R. Grace & Co. Common Stock
+GRX 10.14 The Gabelli Healthcare & Wellne
+GTS 23.46 Triple-S Management Corporation
+GUA 25.62 Gulf Power Company Series 2011A
+GUT 5.68 Gabelli Utility Trust (The) Com
+H 46.09 Hyatt Hotels Corporation Class
+HAL 33.86 Halliburton Company Common Stoc
+HAR 92.75 Harman International Industries
+HAV 7.83 N/A
+HBC 19100.00 N/A
+HBI 28.92 Hanesbrands Inc. Common Stock
+HBM 3.72 Hudbay Minerals Inc Ordinary Sh
+HE 29.01 Hawaiian Electric Industries, I
+HEP 31.03 Holly Energy Partners, L.P. Com
+HHS 3.21 Harte-Hanks, Inc. Common Stock
+HHY 6.82 Brookfield High Income Fund Inc
+HI 29.01 Hillenbrand Inc Common Stock
+HIG 42.66 Hartford Financial Services Gro
+HIL 3.83 Hill International, Inc. Common
+HIO 4.67 Western Asset High Income Oppor
+HIT 28.40 N/A
+HIW 43.09 Highwoods Properties, Inc. Comm
+HJO 0.21 N/A
+HK 1.23 Halcon Resources Corporation Co
+HL 1.93 Hecla Mining Company Common Sto
+HLF 54.93 Herbalife Ltd. Common Stock
+HNT 67.91 Health Net Inc. Common Stock
+HOG 44.68 Harley-Davidson, Inc. Common St
+HPI 20.04 John Hancock Preferred Income F
+HPS 17.73 John Hancock Preferred Income F
+HPY 94.30 Heartland Payment Systems, Inc.
+HR 28.01 Healthcare Realty Trust Incorpo
+HRZ 5.40 N/A
+HT 21.41 Hersha Hospitality Trust Class
+HTH 18.82 Hilltop Holdings Inc.
+HTR 21.79 Brookfield Total Return Fund In
+HTS 13.06 Hatteras Financial Corp Hattera
+HTZ 13.97 Hertz Global Holdings, Inc Comm
+HUN 11.28 Huntsman Corporation Common Sto
+HW 16.53 Headwaters Incorporated Common
+HYB 7.63 New America High Income Fund, I
+HYH 32.61 Halyard Health, Inc. Common Sto
+HYI 13.96 Western Asset High Yield Define
+HZO 18.07 MarineMax, Inc. (FL) Common St
+IAE 8.85 Voya Asia Pacific High Dividend
+IAG 1.46 Iamgold Corporation Ordinary Sh
+IBI 12.96 N/A
+ICA 0.83 Empresas Ica Soc Contrladora Co
+ICB 16.83 MS Income Securities, Inc. Comm
+IDT 11.47 IDT Corporation Class B Common
+IEP 61.02 Icahn Enterprises L.P.
+IEX 76.61 IDEX Corporation Common Stock
+IFF 118.30 Internationa Flavors & Fragranc
+IGR 7.54 CBRE Clarion Global Real Estate
+IHC 13.65 Independence Holding Company Co
+IIM 16.33 Invesco Value Municipal Income
+IL 8.89 IntraLinks Holdings, Inc. Commo
+IMAX 35.02 Imax Corporation Common Stock
+IMC 6.55 N/A
+IMN 1.35 Imation Corporation Common Stoc
+IMS 25.11 IMS Health Holdings, Inc. Commo
+INXN 29.70 InterXion Holding N.V. Ordinary
+IPG 22.88 Interpublic Group of Companies,
+IQI 12.65 Invesco Quality Municipal Incom
+IRF 0.10 N/A
+ISF 25.58 ING Group, N.V. Perp Hybrid Cap
+ISP 25.15 ING Groep NV 6.20% Perpetual De
+ITT 35.07 ITT Corporation Common Stock Ne
+ITW 92.68 Illinois Tool Works Inc. Common
+IVR 12.31 INVESCO MORTGAGE CAPITAL INC Co
+IVZ 32.59 Invesco Ltd Common Stock
+IX 69.19 Orix Corp Ads Common Stock
+JAH 56.23 Jarden Corporation Common Stock
+JBK 24.76 Lehman ABS 3.50 3.50% Adjustabl
+JBR 15.21 Select Asset Inc. Corporate Bac
+JCI 38.86 Johnson Controls, Inc. Common S
+JEC 41.34 Jacobs Engineering Group Inc. C
+JFC 15.03 JPMorgan China Region Fund, In
+JFR 10.17 Nuveen Floating Rate Income Fun
+JNS 13.88 Janus Capital Group, Inc. Cmn S
+JOE 18.26 St. Joe Company (The) Common St
+JQC 7.74 Nuveen Credit Strategies Income
+JSD 14.75 Nuveen Short Duration Credit Op
+JSM 16.07 SLM Corporation
+KCC 28.55 Structured Products Corp. 8.20%
+KEG 0.47 Key Energy Services, Inc. Commo
+KEX 51.99 Kirby Corporation Common Stock
+KF 31.01 Korea Fund, Inc. (The) New Comm
+KMB 125.91 Kimberly-Clark Corporation Comm
+KMX 53.09 CarMax Inc
+KND 11.69 Kindred Healthcare, Inc. Common
+KO 42.34 Coca-Cola Company (The) Common
+KOF 70.26 Coca Cola Femsa S.A.B. de C.V.
+KOG 37.65 N/A
+KR 41.16 Kroger Company (The) Common Sto
+KRC 62.70 Kilroy Realty Corporation Commo
+KRG 25.43 Kite Realty Group Trust Common
+KRO 5.45 Kronos Worldwide Inc Common Sto
+KSM 13.26 Deutsche Strategic Municiple In
+KT 11.71 KT Corporation Common Stock
+KWR 76.30 Quaker Chemical Corporation Com
+L 37.75 Loews Corporation Common Stock
+LAD 104.23 Lithia Motors, Inc. Common Stoc
+LAZ 43.73 Lazard LTD. Lazard, LTD. Class
+LCC 1.75 N/A
+LFC 15.27 China Life Insurance Company Li
+LG 58.07 Laclede Gas Company Common Stoc
+LGF 31.29 Lions Gate Entertainment Corpor
+LL 17.03 Lumber Liquidators Holdings, In
+LLY 83.40 Eli Lilly and Company Common St
+LM 38.27 Legg Mason, Inc. Common Stock
+LMT 215.77 Lockheed Martin Corporation Com
+LNC 49.16 Lincoln National Corporation Co
+LOR 8.99 Lazard World Dividend & Income
+LOW 74.69 Lowe's Companies, Inc. Common S
+LPS 0.12 N/A
+LRN 8.67 K12 Inc Common Stock
+LTC 42.99 LTC Properties, Inc. Common Sto
+LUV 41.70 Southwest Airlines Company Comm
+LXK 31.73 Lexmark International, Inc. Com
+LXP 7.93 Lexington Realty Trust Common S
+LXU 7.11 LSB Industries, Inc. Common Sto
+LYG 4.28 Lloyds Banking Group Plc Americ
+LYV 24.13 Live Nation Entertainment, Inc.
+MAA 90.41 Mid-America Apartment Communiti
+MAC 79.87 Macerich Company (The) Common S
+MAV 13.37 Pioneer Municipal High Income A
+MBT 6.05 Mobile TeleSystems PJSC
+MCD 117.25 McDonald's Corporation Common S
+MCO 98.44 Moody's Corporation Common Stoc
+MCR 7.59 MFS Charter Income Trust Common
+MD 70.58 Mednax, Inc. Common Stock
+MDS 0.65 N/A
+MDU 18.07 MDU Resources Group, Inc. Commo
+MED 29.78 MEDIFAST INC Common Stock
+MEN 11.82 Blackrock MuniEnhanced Fund, In
+MFA 6.57 MFA Financial, Inc.
+MFC 14.66 Manulife Financial Corporation
+MFV 5.34 MFS Special Value Trust Common
+MGM 22.71 MGM Resorts International Commo
+MHI 13.19 Pioneer Municipal High Income T
+MHN 14.48 Blackrock MuniHoldings New York
+MHO 21.62 M/I Homes, Inc. Common Stock
+MHY 4.47 Western Asset Managed High Inco
+MIM 6400.00 N/A
+MJH 0.01 N/A
+MJN 77.62 Mead Johnson Nutrition Company
+MKC 84.44 McCormick & Company, Incorporat
+MLG 38.01 N/A
+MLI 26.62 Mueller Industries, Inc. Common
+MLP 5.35 Maui Land & Pineapple Company,
+MMC 54.48 Marsh & McLennan Companies, Inc
+MMI 28.34 Marcus & Millichap, Inc. Common
+MMR 0.02 N/A
+MNE 15.03 Blackrock Muni New York Interme
+MNI 1.17 McClatchy Company (The) Common
+MNP 15.64 Western Asset Municipal Partner
+MNR 10.43 Monmouth Real Estate Investment
+MOS 27.30 Mosaic Company (The) Common Sto
+MPA 14.59 Blackrock MuniYield Pennsylvani
+MPG 17.95 Metaldyne Performance Group Inc
+MPW 11.46 Medical Properties Trust, Inc.
+MR 27.01 Mindray Medical International L
+MRK 52.00 Merck & Company, Inc. Common St
+MRO 12.56 Marathon Oil Corporation Common
+MSCI 71.09 MSCI Inc Common Stock
+MSF 12.66 Morgan Stanley Emerging Markets
+MSI 67.66 Motorola Solutions, Inc. Common
+MSM 55.63 MSC Industrial Direct Company,
+MTB 119.23 M&T Bank Corporation Common Sto
+MTD 333.07 Mettler-Toledo International, I
+MTOR 8.09 Meritor, Inc. Common Stock
+MTRN 28.05 Materion Corporation
+MTU 6.15 Mitsubishi UFJ Financial Group,
+MUA 14.29 Blackrock MuniAssets Fund, Inc
+MUE 13.62 Blackrock MuniHoldings Quality
+MVO 5.13 MV Oil Trust Units of Beneficia
+MWG 25.37 Morgan Stanley Cap Tr IV Gtd Ca
+MXL 14.44 MaxLinear, Inc Class A Common S
+MY 2.24 China Ming Yang Wind Power Grou
+MYI 14.74 Blackrock MuniYield Quality Fun
+MYN 13.42 Blackrock MuniYield New York Qu
+N 83.20 Netsuite Inc Common Stock
+NAD 14.43 Nuveen Dividend Advantage Munic
+NAI 1.00 N/A
+NAN 14.15 Nuveen New York Dividend Advant
+NAT 15.57 Nordic American Tankers Limited
+NAV 8.74 Navistar International Corporat
+NAZ 15.15 Nuveen Arizona Premium Income M
+NBB 20.07 Nuveen Build America Bond Fund
+NBD 20.28 Nuveen Build America Bond Oppor
+NBL 32.63 Noble Energy Inc. Common Stock
+NC 41.66 NACCO Industries, Inc. Common S
+NCI 16.36 Navigant Consulting, Inc. Commo
+NCZ 4.98 AllianzGI Convertible & Income
+NDN 9500.00 N/A
+NED 186.75 N/A
+NEE 102.87 NextEra Energy, Inc. Common Sto
+NFJ 12.27 AllianzGI NFJ Dividend, Interes
+NGG 68.82 National Grid Transco, PLC Nati
+NGS 22.09 Natural Gas Services Group, Inc
+NGT 3.51 N/A
+NI 19.41 NiSource Inc Common Stock
+NJ 17.84 Nidec Corporation (Nihon Densan
+NKA 3.13 Niska Gas Storage Partners LLC
+NKE 61.11 Nike, Inc. Common Stock
+NL 2.99 NL Industries, Inc. Common Stoc
+NLS 16.54 Nautilus, Inc. Common Stock
+NMM 3.13 Navios Maritime Partners LP Com
+NMO 13.79 Nuveen Municipal Market Opportu
+NMY 12.77 Nuveen Maryland Premium Income
+NNN 39.86 National Retail Properties Comm
+NOAH 25.68 Noah Holdings Limited
+NOC 185.97 Northrop Grumman Corporation Co
+NOV 33.50 National Oilwell Varco, Inc. Co
+NPK 81.97 National Presto Industries, Inc
+NPT 13.38 Nuveen Premium Income Municipal
+NPTN 10.51 NeoPhotonics Corporation Common
+NPV 13.52 Nuveen Virginia Premium Income
+NQI 13.52 Nuveen Quality Municipal Fund,
+NQS 13.97 Nuveen Select Quality Municipal
+NRF 16.87 NorthStar Realty Finance Corp.
+NS 40.54 Nustar Energy L.P. Common Unit
+NSL 5.71 Nuveen Senior Income Fund Commo
+NSM 13.21 Nationstar Mortgage Holdings In
+NSR 23.52 Neustar, Inc. Neustar, Inc. Cla
+NTG 17.11 Tortoise MLP Fund, Inc. Common
+NTX 14.38 Nuveen Texas Quality Income Mun
+NTZ 1.56 Natuzzi, S.p.A.
+NUC 4.42 N/A
+NUS 37.49 Nu Skin Enterprises, Inc. Commo
+NUW 17.93 Nuveen AMT-Free Municipal Value
+NWY 2.19 New York & Company, Inc. New Yo
+NX 20.61 Quanex Building Products Corpor
+NXN 13.68 Nuveen New York Select Tax-Free
+NXP 14.29 Nuveen Select Tax Free Income P
+NYT 13.25 New York Times Company (The) Co
+OB 12.19 OneBeacon Insurance Group, Ltd.
+OC 46.11 Owens Corning Inc Common Stock
+OFC 21.67 Corporate Office Properties Tru
+OGE 26.24 OGE Energy Corporation Common S
+OMC 74.38 Omnicom Group Inc. Common Stock
+OMI 35.58 Owens & Minor, Inc. Common Stoc
+PAC 86.63 Grupo Aeroportuario Del Pacific
+PAG 41.43 Penske Automotive Group, Inc. C
+PAM 20.25 Pampa Energia S.A. Pampa Energi
+PAY 27.55 Verifone Systems, Inc. Common S
+PBY 18.41 Pep Boys-Manny, Moe & Jack (The
+PCF 7.24 Putnam High Income Securities F
+PCN 13.33 Pimco Corporate & Income Strate
+PCQ 15.78 PIMCO California Municipal Inco
+PEB 27.61 Pebblebrook Hotel Trust Common
+PEG 38.27 Public Service Enterprise Group
+PEO 17.62 Adams Natural Resources Fund, I
+PER 2.91 SandRidge Permian Trust Common
+PFL 9.69 PIMCO Income Strategy Fund Shar
+PFO 10.59 Flaherty & Crumrine Preferred I
+PGR 31.43 Progressive Corporation (The) C
+PH 96.98 Parker-Hannifin Corporation Com
+PHA 0.46 N/A
+PHG 24.77 Koninklijke Philips N.V. NY Reg
+PHH 15.89 PHH Corp Common Stock
+PHK 8.33 Pimco High Income Fund Pimco Hi
+PHX 16.19 Panhandle Oil and Gas Inc Commo
+PIM 4.55 Putnam Master Intermediate Inco
+PJC 39.38 Piper Jaffray Companies Common
+PJR 36.47 N/A
+PJS 25.54 PreferredPlus Trust Ser FAR 1 T
+PJT 27.86 PJT Partners Inc. Class A Commo
+PLD 42.36 ProLogis, Inc. Common Stock
+PM 86.84 Philip Morris International Inc
+PMC 34.58 Pharmerica Corporation Common S
+PMI 1.63 N/A
+PMT 15.13 PennyMac Mortgage Investment Tr
+PMX 11.62 PIMCO Municipal Income Fund III
+PNC 94.26 PNC Financial Services Group, I
+PNI 12.37 Pimco New York Municipal Income
+PNK 30.84 Pinnacle Entertainment, Inc.
+PNX 36.79 Phoenix Companies, Inc. (The) C
+PNY 57.15 Piedmont Natural Gas Company, I
+POM 26.11 PEPCO Holdings, Inc Common Stoc
+POT 16.94 Potash Corporation of Saskatche
+PPG 97.26 PPG Industries, Inc. Common Sto
+PPR 4.97 Voya Prime Rate Trust Shares of
+PPS 58.81 Post Properties, Inc. Common St
+PRA 48.09 ProAssurance Corporation Common
+PRGN 0.15 Paragon Shipping Inc.
+PRI 46.11 Primerica, Inc. Common Stock
+PSA 243.91 Public Storage Common Stock
+PSW 10200.00 N/A
+PT 3.00 N/A
+PVA 0.31 N/A
+PVD 26900.00 N/A
+PWE 0.86 Penn West Petroleum Ltd
+PZE 5.52 Petrobras Argentina S.A. ADS
+PZN 8.47 Pzena Investment Management Inc
+QEP 13.46 QEP Resources, Inc. Common Stoc
+RAD 7.91 Rite Aid Corporation Common Sto
+RAX 24.99 Rackspace Hosting, Inc Common S
+RBC 57.63 Regal Beloit Corporation Common
+RBS 8.62 Royal Bank of Scotland Group Pl
+RCL 99.59 Royal Caribbean Cruises Ltd. Co
+RDN 13.22 Radian Group Inc. Common Stock
+RDY 45.74 Dr. Reddy's Laboratories Ltd Co
+RE 181.69 Everest Re Group, Ltd. Common S
+REN 0.88 Resolute Energy Corporation Com
+RES 11.93 RPC, Inc. Common Stock
+REV 27.29 Revlon, Inc. New Common Stock
+REX 53.31 REX American Resources Corporat
+RF 9.35 Regions Financial Corporation C
+RFI 12.54 Cohen & Steers Total Return Rea
+RGA 83.97 Reinsurance Group of America, I
+RGC 18.52 Regal Entertainment Group Class
+RGS 14.46 Regis Corporation Common Stock
+RHI 46.40 Robert Half International Inc.
+RIG 12.32 Transocean Ltd (Switzerland) Co
+RLD 10.48 RealD Inc Common Stock
+RLJ 21.24 RLJ Lodging Trust Common Shares
+RNR 112.52 RenaissanceRe Holdings Ltd. Com
+ROP 186.38 Roper Technologies, Inc. Common
+RRC 24.59 Range Resources Corporation Com
+RSO 12.78 Resource Capital Corp. Resource
+RY 52.70 Royal Bank Of Canada Common Sto
+RYN 22.03 Rayonier Inc. REIT Common Stock
+SAN 4.79 Banco Santander, S.A. Sponsored
+SBH 27.54 Sally Beauty Holdings, Inc. (Na
+SBW 9.95 Western Asset Worldwide Income
+SCD 12.26 LMP Capital and Income Fund Inc
+SCG 60.50 SCANA Corporation Common Stock
+SDT 2.22 SandRidge Mississippian Trust I
+SFI 32000.00 N/A
+SFL 16.33 Ship Finance International Limi
+SFN 25.04 Stifel Financial Corporation 5.
+SGU 7.31 Star Gas Partners, L.P. Common
+SHG 34.09 Shinhan Financial Group Co Ltd
+SHO 12.35 Sunstone Hotel Investors, Inc.
+SHP 19000.00 N/A
+SHS 8000.00 N/A
+SHW 257.30 Sherwin-Williams Company (The)
+SJI 23.43 South Jersey Industries, Inc. C
+SJT 4.18 San Juan Basin Royalty Trust Co
+SJW 29.49 SJW Corporation Common Stock
+SKS 5.80 N/A
+SKY 3.42 Skyline Corporation Common Stoc
+SLB 69.44 Schlumberger N.V. Common Stock
+SLF 30.57 Sun Life Financial Inc. Common
+SM 19.54 SM Energy Company Common Stock
+SNA 168.78 Snap-On Incorporated Common Sto
+SNH 15.12 Senior Housing Properties Trust
+SNN 34.77 Smith & Nephew SNATS, Inc. Comm
+SNP 58.38 China Petroleum & Chemical Corp
+SOL 1.61 Renesola Ltd. Common Shares of
+SON 40.25 Sonoco Products Company Common
+SPB 100.70 Spectrum Brands Holdings, Inc.
+SPE 13.13 Special Opportunities Fund, Inc
+SQM 18.55 Sociedad Quimica y Minera S.A.
+SRI 14.37 Stoneridge, Inc. Common Stock
+SSD 33.74 Simpson Manufacturing Company,
+SSP 18.63 E.W. Scripps Company (The) Comm
+SSS 107.62 Sovran Self Storage, Inc. Commo
+STAG 18.29 Stag Industrial, Inc. Common St
+STC 36.81 Stewart Information Services Co
+STD 9.60 N/A
+STE 74.11 STERIS plc Ordinary Shares
+STN 24.20 Stantec Inc Common Stock
+STO 13.72 Statoil ASA
+STR 19.37 Questar Corporation
+STRI 0.37 N/A
+STT 64.76 State Street Corporation
+STV 1.65 China Digital TV Holding Co., L
+STZ 141.02 Constellation Brands, Inc. Comm
+SUG 0.01 N/A
+SUI 68.16 Sun Communities, Inc. Common St
+SUP 18.07 Superior Industries Internation
+SWI 58.81 Solarwinds, Inc. Common Stock
+SWZ 10.48 Swiss Helvetia Fund, Inc. (The)
+SXI 81.98 Standex International Corporati
+SXT 61.86 Sensient Technologies Corporati
+SYK 91.47 Stryker Corporation Common Stoc
+TAM 0.65 N/A
+TBI 25.21 TrueBlue, Inc. Common Stock
+TCAP 18.83 Triangle Capital Corporation Co
+TD 38.63 Toronto Dominion Bank (The) Com
+TDE 24.87 Telephone and Data Systems, Inc
+TDW 6.96 Tidewater Inc. Common Stock
+TDY 87.23 Teledyne Technologies Incorpora
+TEF 10.82 Telefonica SA Common Stock
+TEN 45.24 Tenneco Inc. Common Stock
+TEX 18.13 Terex Corporation Common Stock
+TG 13.43 Tredegar Corporation Common Sto
+TGH 13.85 Textainer Group Holdings Limite
+TGS 6.08 Transportadora de Gas del Sur S
+TGT 71.83 Target Corporation Common Stock
+THO 56.72 Thor Industries, Inc. Common St
+THR 16.63 Thermon Group Holdings, Inc. Co
+THS 77.51 Treehouse Foods, Inc. Common St
+TJX 69.88 TJX Companies, Inc. (The) Commo
+TK 9.81 Teekay Corporation Common Stock
+TKF 7.66 Turkish Investment Fund, Inc. (
+TLI 9.76 LMP Corporate Loan Fund Inc Com
+TLK 44.93 PT Telekomunikasi Indonesia, Tb
+TMH 43.66 Team Health Holdings, Inc. Team
+TMK 56.02 Torchmark Corporation Common St
+TNC 55.45 Tennant Company Common Stock
+TNP 7.89 Tsakos Energy Navigation Ltd Co
+TOO 6.48 Teekay Offshore Partners L.P. C
+TPL 126.26 Texas Pacific Land Trust Common
+TPZ 16.68 Tortoise Power and Energy Infra
+TRGP 26.34 Targa Resources, Inc. Common St
+TRN 23.51 Trinity Industries, Inc. Common
+TRNO 22.34 Terreno Realty Corporation Comm
+TRU 27.20 TransUnion Common Stock
+TSI 5.25 TCW Strategic Income Fund, Inc.
+TSN 52.43 Tyson Foods, Inc. Common Stock
+TSO 104.83 Tesoro Corporation Common Stock
+TTC 72.23 Toro Company (The) Common Stock
+TTF 6.62 Thai Fund, Inc. (The) Common St
+TTI 7.56 Tetra Technologies, Inc. Common
+TUP 54.61 Tupperware Brands Corporation C
+TVE 24.94 Tennessee Valley Authority
+TWI 3.89 Titan International, Inc. (DE)
+TWN 14.53 Taiwan Fund, Inc. (The) Common
+TWO 8.03 Two Harbors Investment Corp
+TWX 63.74 Time Warner Inc. New Common Sto
+TY 19.91 Tri Continental Corporation Com
+TYL 165.92 Tyler Technologies, Inc. Common
+UBA 19.18 Urstadt Biddle Properties Inc.
+UFI 27.77 Unifi, Inc. New Common Stock
+UHS 117.45 Universal Health Services, Inc.
+UL 42.23 Unilever PLC Common Stock
+UN 42.23 Unilever NV Common Stock
+UNM 32.36 Unum Group Common Stock
+UPS 95.33 United Parcel Service, Inc. Com
+URI 71.11 United Rentals, Inc. Common Sto
+USB 41.75 U.S. Bancorp Common Stock
+USM 40.02 United States Cellular Corporat
+UTI 4.71 Universal Technical Institute I
+UZA 24.86 United States Cellular Corporat
+VCI 3.80 N/A
+VCO 29.79 Vina Concha Y Toro Common Stock
+VIA 43.25 Viacom Inc.
+VIT 19600.00 N/A
+VKQ 12.77 Invesco Municipal Trust Common
+VMO 13.14 Invesco Municipal Opportunity T
+VNR 3.03 Vanguard Natural Resources LLC
+VSH 11.82 Vishay Intertechnology, Inc. Co
+VTA 10.51 Invesco Credit Opportunities Fu
+VVC 42.27 Vectren Corporation Common Stoc
+VZ 45.66 Verizon Communications Inc. Com
+WAIR 11.79 Wesco Aircraft Holdings, Inc. C
+WAT 132.55 Waters Corporation Common Stock
+WBK 23.45 Westpac Banking Corporation Com
+WBS 36.74 Webster Financial Corporation C
+WCC 43.09 WESCO International, Inc. Commo
+WDC 59.32 Western Digital Corporation
+WDR 27.46 Waddell & Reed Financial, Inc.
+WEA 12.16 Western Asset Bond Fund Share o
+WF 21.79 Woori Bank American Depositary
+WFR 4.50 N/A
+WFT 8.29 Weatherford International plc (
+WGL 62.50 WGL Holdings IncCommon Stock
+WGO 18.87 Winnebago Industries, Inc. Comm
+WHG 51.29 Westwood Holdings Group Inc Com
+WLL 9.35 Whiting Petroleum Corporation C
+WM 52.59 Waste Management, Inc. Common S
+WMB 25.52 Williams Companies, Inc. (The)
+WMS 23.63 Advanced Drainage Systems, Inc.
+WNC 11.63 Wabash National Corporation Com
+WNS 30.62 WNS (Holdings) Limited Sponsore
+WOR 29.63 Worthington Industries, Inc. Co
+WPI 0.34 N/A
+WR 42.11 Westar Energy, Inc. Common Stoc
+WRB 54.16 W.R. Berkley Corporation Common
+WRE 26.95 Washington Real Estate Investme
+WTI 2.44 W&T Offshore, Inc. Common Stock
+WTM 734.02 White Mountains Insurance Group
+WTR 29.79 Aqua America, Inc. Common Stock
+WU 17.55 Western Union Company (The) Com
+X 7.85 United States Steel Corporation
+XCO 1.21 EXCO Resources, Inc. Exco Resou
+XEC 89.19 Cimarex Energy Co Common Stock
+XIN 3.62 Xinyuan Real Estate Co Ltd Amer
+XKE 4.46 Lehman ABS Corporation Corporat
+XKK 7.63 N/A
+XL 38.66 XL Group plc
+XOM 77.94 Exxon Mobil Corporation Common
+XRS 45.93 TAL Education Group American De
+YZC 4.35 Yanzhou Coal Mining Company Lim
+ZF 12.92 Zweig Fund, Inc. (The) Common S
+ZTR 12.14 Zweig Total Return Fund, Inc. (

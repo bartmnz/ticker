@@ -6,28 +6,28 @@
 bool tree_insert(struct tree *t, struct company *comp,
     int (*cmp)(const struct company *, const struct company *))
 {
-    if(cmp(comp, t->data) < 1) {
+    if(cmp(comp, t->data) == -1) {
         if (t->left) {
             return tree_insert(t->left, comp, cmp);
         } else {
             t->left = tree_create(comp);
             return t->left;
         }
-    } else if (cmp(comp, t->data) > 1){
+    } else if (cmp(comp, t->data) == 1){
         if (t->right){
             return tree_insert(t->right, comp, cmp);
         } else {
             t->right = tree_create(comp);
             return t->right;
         }
-    } else if( cmp == &check_symbol ){ // using the same symbol
-        if ( comp->status == 1){
-            return (t->data->cents += comp->cents);
-        } else if( comp->status == -1 ){
-            int temp = t->data->cents - comp->cents;
-            if (temp > 0){
-                return (t->data->cents = temp);
-            }
+    } else if(t->data == NULL){
+        t->data = comp;
+    } else if( check_symbol(comp, t->data) == 0){ // using the same symbol
+        int temp = t->data->cents + comp->cents;
+        if (temp > 0){
+            return (t->data->cents = temp);
+        } else{
+            fprintf(stderr, "ERROR: stock price cannot be less than $.01\n");
         }
     }
     return false;
@@ -104,8 +104,10 @@ struct company* make_company( char* string){
         int len = strnlen(title, 65);
         newComp->name = malloc(len);
         strcpy( newComp->name, title);
+        if(title[len-1] == '\n'){
+            newComp->name[len-1]='\0';
+        }
     }
-    
     return newComp;
 }
 
@@ -114,10 +116,16 @@ struct company* make_company( char* string){
  * returns 10 if either argument is invalid
  */
 int check_symbol(const struct company *first, const struct company *second){
-    if( ! first || ! second){
+    if( !first || !second){
         return 10;
     }
-    return strncmp(first->symbol, second->symbol, 6);
+    int a = strnlen(first->symbol, 6);
+    int b = strnlen(second->symbol, 6);
+    int size = a > b ? a : b;
+    int temp = strncmp(first->symbol, second->symbol, size);
+    if (temp >= 1) return 1;
+    if (temp <= -1) return -1;
+    return temp;
 }
 
 /* compares value of the cents field of the two companies
@@ -188,11 +196,13 @@ void print_tree(struct tree* root){
     }
     if ( root->left ){
         print_tree(root->left);
-    } else if ( root->right ){
-        print_tree(root->right);
     }
     fprintf(stdout, "%s %d.%d %s\n", root->data->symbol, (int)root->data->cents/100, 
                         (int)root->data->cents%100, root->data->name);
+    if ( root->right ){
+        print_tree(root->right);
+    }
+    
 }
 
 /* Reads fromt he specified file and creates a tree based on the data inside
@@ -245,15 +255,20 @@ void user_input(struct tree* farce){
 int main(int argc, char* argv[]){
     if( argc != 2 ){
         fprintf(stderr, "ERROR: useage is ./ticker FILENAME\n");
+        return -1;
     }
-    struct tree* tree, *tempT = NULL, *tempC = NULL;
+    struct tree* tree, *tempC, *tempT = malloc(sizeof(struct tree*));
     tree = read_file(argv[1]);
+    if (!tree){
+        return -1;
+    }
     user_input(tree);
-    while( (tempC = pop_tree(tree))){
+    while( (tempC = pop_tree(tree)) && tempC != tree){
         tree_insert(tempT, tempC->data, check_value);
     }
+    tree_insert(tempT, tree->data, check_value);
     print_tree(tempT);
-    tree_destroy(tree);
+    free(tree);
     tree_destroy(tempT);
-    tree_destroy(tempC);
+    free(tempC);
 }

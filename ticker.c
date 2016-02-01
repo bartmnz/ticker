@@ -122,7 +122,29 @@ int check_value(const struct company *first, const struct company *second){
     } else return 0;
 }
 
-
+/* returns the node found at the lowest level of the tree from left to right
+ * removes the node from the tree, DOES NOT FREE THE MEMORY!
+ *
+ */
+struct tree* pop_tree( struct tree* root){
+    if (! root){
+        return NULL;
+    }
+    struct tree* temp;
+    if( root->left){
+        temp = pop_tree(root->left);
+        if (temp == root->left){
+            root->left = NULL;
+        }
+        return temp;
+    }else if ( root->right){
+        temp = pop_tree(root->right);
+        if (temp == root->right){
+            root->right = NULL;
+        }
+        return temp;
+    } else return root;
+}
 
 /* program execution begins here
  *

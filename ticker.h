@@ -29,3 +29,4 @@ struct tree* tree_create(struct company* comp);
 struct company* make_company( char* string);
 int check_symbol(const struct company *first, const struct company *second);
 int check_value(const struct company *first, const struct company *second);
+struct tree* pop_tree( struct tree* root);

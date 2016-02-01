@@ -57,6 +57,45 @@ struct tree* tree_create(struct company* comp){
     return tree;
 }
 
+/* Returns a newly Malloc'd company structure derrived from the input string
+ * if string is invalid returns NULL
+ */
+struct company* make_company( char* string){
+    const char *symb, *value, *title;
+    struct company* newComp = malloc(sizeof(struct company)); 
+    // get ticker symbol
+    symb = strtok(string, " ");
+    if (strnlen(symb, 6) > 5){
+        free(newComp);
+        return NULL;
+    } else {
+        strcpy(newComp->symbol, symb);
+    }
+    
+    // get value of stock (or adjustment)
+    double dollars;
+    char *end;
+    value = strtok(NULL, " ");
+    if (!value || strnlen(value, 11) > 10){ // value is out of bounds or nonexistant
+        free(newComp);
+        return NULL;
+    }
+    dollars = strtod(value, &end);
+    if( value == end){ // did not successfully convert a number.
+        free(newComp);
+        return NULL;
+    }
+    newComp->cents = (int)(dollars * 100);
+    
+    // get name
+    title = strtok(NULL, "\0");
+    if (title){
+        strcpy( newComp->name, title);
+    }
+    
+    return newComp;
+}
+
 /* program execution begins here
  *
  */

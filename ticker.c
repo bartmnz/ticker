@@ -111,7 +111,7 @@ int check_symbol(const struct company *first, const struct company *second){
  * returns -1 if first is less than second 0 if they are equal and 1 if first is greater
  * returns 10 if either argument is invalid
  */
-int check_symbol(const struct company *first, const struct company *second){
+int check_name(const struct company *first, const struct company *second){
     if( ! first || ! second){
         return 10;
     }

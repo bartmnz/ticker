@@ -68,30 +68,6 @@ bool tree_insert(struct tree *t, struct company *comp,
     return false;
 }
 
-/*Code included as part of assignment
- *
- /
-struct company *stock_create( char* symbol, char *name, double price)
-{
-   struct company *new_stock = malloc(sizeof(*new_stock));
-    if(!new_stock){
-        return NULL;
-    }
-    
-    new_stock->name = strdup(name);
-    if( !new_stock->name ){
-        free (new_stock);
-        return NULL;
-    }
-    
-    strncpy( new_stock->symbol, symbol, sizeof(new_stock->symbol)-1);
-    new_stock->symbol[sizeof(new_stock->symbol)-1] = '\0';
-    
-    new_stock->cents = 100 * price;
-    return new_stock;
-}
-*/
-
 /* Returns a newly Malloc'd tree with left and right nodes set to NULL and data 
  * set as the parameter comp.
  */
@@ -156,13 +132,14 @@ struct company* make_company( char* string){
     title = strtok(NULL, "\0");
     if (title){
         int len = strnlen(title, 65);
+        printf("%d\n", len);
         newComp->name = malloc(sizeof(char)*(len+1));
         if (! (newComp->name)){
             fprintf(stderr, "ERROR: could not allocate space.\n");
             free(newComp);
             return NULL;
         }
-        memset(newComp->name, 0, len);
+        memset(newComp->name, 0, sizeof(char)*(len+1));
         strncpy( newComp->name, title, len);
         if(title[len-1] == '\n'){
             newComp->name[len-1]='\0';
@@ -263,8 +240,8 @@ void print_tree(struct tree* root){
         print_tree(root->left);
     }
     if ( root->data && root->data->name){
-        fprintf(stdout, "%s %d.%d %s\n", root->data->symbol, (int)root->data->cents/100, 
-                        (int)root->data->cents%100, root->data->name);
+        fprintf(stdout, "%s %d.%d %s\n", root->data->symbol, root->data->cents/100, 
+                        root->data->cents%100, root->data->name);
     }
     if ( root->right ){
         print_tree(root->right);
@@ -345,7 +322,7 @@ int main(int argc, char* argv[]){
     }
     tree_insert(tempT, tree->data, check_value);
     print_tree(tempT);
-    tree_destroy(tree);
+    free(tree);
     tree_destroy(tempT);
     
 }

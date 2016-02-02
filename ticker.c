@@ -34,7 +34,15 @@ bool tree_insert(struct tree *t, struct company *comp,
         free(comp->name);
         free(comp);
         return rValue;
-    } else{
+    } else if(cmp(comp, t->data) ==0){ // data is the same but symbol is different
+        if (t->left) {
+            return tree_insert(t->left, comp, cmp);
+        } else {
+            t->left = tree_create(comp);
+            return t->left;
+        } // arbitrarly insert to the left
+    }    
+    else{
         free(comp->name);
         free(comp);
         return rValue;

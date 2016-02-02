@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdbool.h>
 #include <stdlib.h>
-
+#include <ctype.h>
 
 struct company {
     char symbol[6];
@@ -15,11 +15,6 @@ struct tree{
     struct company * data;
     struct tree *left, *right;
 };
-
-//typedef struct{
-//    struct tree *root;
-//    int (*cmp)(const struct company *, const struct company *);
-//} market;
 
 bool tree_insert(struct tree *t, struct company *comp,
     int (*cmp)(const struct company *, const struct company *));

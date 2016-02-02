@@ -9,7 +9,6 @@ struct company {
     char symbol[6];
     int cents;
     char *name;
-    int status; // 1 is add 0 is no symbol and -1 is subtract 
 };
 
 struct tree{
@@ -17,10 +16,10 @@ struct tree{
     struct tree *left, *right;
 };
 
-typedef struct{
-    struct tree *root;
-    int (*cmp)(const struct company *, const struct company *);
-} market;
+//typedef struct{
+//    struct tree *root;
+//    int (*cmp)(const struct company *, const struct company *);
+//} market;
 
 bool tree_insert(struct tree *t, struct company *comp,
     int (*cmp)(const struct company *, const struct company *));

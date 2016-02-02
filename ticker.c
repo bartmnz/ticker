@@ -6,23 +6,39 @@
 bool tree_insert(struct tree *t, struct company *comp,
     int (*cmp)(const struct company *, const struct company *))
 {
+    // insert left
     bool rValue = false;
     if(cmp(comp, t->data) == -1) {
         if (t->left) {
             return tree_insert(t->left, comp, cmp);
         } else {
+            if(comp->cents < .01){ // does not match any known data and is invalid value
+                fprintf(stderr, "ERROR: stock price cannot be less than $.01\n");
+                return false;
+            }
             t->left = tree_create(comp);
             return t->left;
+            
         }
+        
+    //insert right
     } else if (cmp(comp, t->data) == 1){
         if (t->right){
             return tree_insert(t->right, comp, cmp);
         } else {
+            if(comp->cents < .01){ // does not match any known data and is invalid value
+                fprintf(stderr, "ERROR: stock price cannot be less than $.01\n");
+                return false;
+            }
             t->right = tree_create(comp);
             return t->right;
         }
+        
+    // insert at head
     } else if(t->data == NULL){
         t->data = comp;
+    
+    // the symbol is the same
     } else if( check_symbol(comp, t->data) == 0){ // using the same symbol
         int temp = t->data->cents + comp->cents;
         if (temp > 0){
@@ -34,7 +50,9 @@ bool tree_insert(struct tree *t, struct company *comp,
         free(comp->name);
         free(comp);
         return rValue;
-    } else if(cmp(comp, t->data) ==0){ // data is the same but symbol is different
+        
+    // data is the same but symbol is different
+    } else if(cmp(comp, t->data) ==0){ 
         if (t->left) {
             return tree_insert(t->left, comp, cmp);
         } else {

@@ -70,10 +70,10 @@ bool tree_insert(struct tree *t, struct company *comp,
 
 /*Code included as part of assignment
  *
- */
+ /
 struct company *stock_create( char* symbol, char *name, double price)
 {
-    struct company *new_stock = malloc(sizeof(*new_stock));
+   struct company *new_stock = malloc(sizeof(*new_stock));
     if(!new_stock){
         return NULL;
     }
@@ -90,6 +90,7 @@ struct company *stock_create( char* symbol, char *name, double price)
     new_stock->cents = 100 * price;
     return new_stock;
 }
+*/
 
 /* Returns a newly Malloc'd tree with left and right nodes set to NULL and data 
  * set as the parameter comp.
@@ -124,8 +125,16 @@ struct company* make_company( char* string){
     if (strnlen(symb, 6) > 5){
         free(newComp);
         return NULL;
-    } else {
+    } else 
         strncpy(newComp->symbol, symb, 6);
+    for (int i = 0; i < 6; i++){
+        if ( newComp->symbol[i] == '\0'){
+            break;
+        }
+        if (! (isalpha((newComp->symbol)[i]))){
+            free(newComp);
+            return NULL;
+        }
     }
     
     // get value of stock (or adjustment)
@@ -150,6 +159,7 @@ struct company* make_company( char* string){
         newComp->name = malloc(sizeof(char)*(len+1));
         if (! (newComp->name)){
             fprintf(stderr, "ERROR: could not allocate space.\n");
+            free(newComp);
             return NULL;
         }
         memset(newComp->name, 0, len);
@@ -157,7 +167,6 @@ struct company* make_company( char* string){
         if(title[len-1] == '\n'){
             newComp->name[len-1]='\0';
         }
-        newComp->name[len] = '\0';
     }
     return newComp;
 }

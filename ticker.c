@@ -242,8 +242,12 @@ void tree_destroy( struct tree* root){
         tree_destroy(root->right);
         root->right = NULL;
     }
-    free(root->data->name);
-    free(root->data);
+    if( root->data ){
+        if (root->data->name){
+            free(root->data->name);
+        }
+        free(root->data);
+    }
     free(root);
     
 }
@@ -258,8 +262,10 @@ void print_tree(struct tree* root){
     if ( root->left ){
         print_tree(root->left);
     }
-    fprintf(stdout, "%s %d.%d %s\n", root->data->symbol, (int)root->data->cents/100, 
+    if ( root->data && root->data->name){
+        fprintf(stdout, "%s %d.%d %s\n", root->data->symbol, (int)root->data->cents/100, 
                         (int)root->data->cents%100, root->data->name);
+    }
     if ( root->right ){
         print_tree(root->right);
     }
@@ -339,6 +345,7 @@ int main(int argc, char* argv[]){
     }
     tree_insert(tempT, tree->data, check_value);
     print_tree(tempT);
-    free(tree);
+    tree_destroy(tree);
     tree_destroy(tempT);
+    
 }

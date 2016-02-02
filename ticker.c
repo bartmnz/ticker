@@ -96,6 +96,10 @@ struct company *stock_create( char* symbol, char *name, double price)
  */
 struct tree* tree_create(struct company* comp){
     struct tree* tree = malloc(sizeof(struct tree));
+    if (! tree){
+        fprintf(stderr, "ERROR: could not allocate space.\n");
+        return NULL;
+    }
     memset(tree, 0, sizeof(struct tree));
     tree->data = comp;
     tree->left = NULL;
@@ -110,6 +114,10 @@ struct tree* tree_create(struct company* comp){
 struct company* make_company( char* string){
     const char *symb, *value, *title;
     struct company* newComp = malloc(sizeof(struct company));
+    if (! newComp){
+        fprintf(stderr, "ERROR: could not allocate space.\n");
+        return NULL;
+    }
     memset(newComp, 0, sizeof(struct company));
     // get ticker symbol
     symb = strtok(string, " ");
@@ -140,6 +148,10 @@ struct company* make_company( char* string){
     if (title){
         int len = strnlen(title, 65);
         newComp->name = malloc(len+1);
+        if (! (newComp->name)){
+            fprintf(stderr, "ERROR: could not allocate space.\n");
+            return NULL;
+        }
         memset(newComp->name, 0, len+1);
         strcpy( newComp->name, title);
         if(title[len-1] == '\n'){
@@ -183,7 +195,7 @@ int check_value(const struct company *first, const struct company *second){
 
 /* returns the node found at the lowest level of the tree from left to right
  * removes the node from the tree, DOES NOT FREE THE MEMORY!
- *
+ * used to prevent multiple references to pointers and repeated calls to malloc the same data.
  */
 struct tree* pop_tree( struct tree* root){
     if (! root){
@@ -251,13 +263,14 @@ struct tree* read_file(char* filename){
     FILE* file;
     if ( ! (file = fopen(filename, "r"))){
         fprintf(stderr, "ERROR: could not open file. Check filename and permissions.\n");
+        return NULL;
     }
     struct tree* farce = malloc(sizeof(struct tree));
-    memset( farce, 0, sizeof(struct tree));
     if (! farce){
         fprintf(stderr, "ERROR: could not allocate space.\n");
         return NULL;
     }
+    memset( farce, 0, sizeof(struct tree));
     char temp[82];
     struct company *pmet;
     while( fgets(temp, sizeof(temp), file) != NULL){
@@ -299,9 +312,13 @@ int main(int argc, char* argv[]){
         return -1;
     }
     struct tree* tree, *tempC = NULL, *tempT = malloc(sizeof(struct tree));
+    if (!tempT){
+        fprintf(stderr, "ERROR: could not allocate space.\n");
+        return -1;
+    }
     memset(tempT, 0, sizeof(struct tree));
     tree = read_file(argv[1]);
-    if (!tree){
+    if (!tree){ // allocation or read failed somehow
         return -1;
     }
     user_input(tree);

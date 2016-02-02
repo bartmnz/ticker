@@ -125,7 +125,7 @@ struct company* make_company( char* string){
         free(newComp);
         return NULL;
     } else {
-        strcpy(newComp->symbol, symb);
+        strncpy(newComp->symbol, symb, 6);
     }
     
     // get value of stock (or adjustment)
@@ -147,16 +147,17 @@ struct company* make_company( char* string){
     title = strtok(NULL, "\0");
     if (title){
         int len = strnlen(title, 65);
-        newComp->name = malloc(len+1);
+        newComp->name = malloc(sizeof(char)*(len+1));
         if (! (newComp->name)){
             fprintf(stderr, "ERROR: could not allocate space.\n");
             return NULL;
         }
-        memset(newComp->name, 0, len+1);
-        strcpy( newComp->name, title);
+        memset(newComp->name, 0, len);
+        strncpy( newComp->name, title, len);
         if(title[len-1] == '\n'){
             newComp->name[len-1]='\0';
         }
+        newComp->name[len] = '\0';
     }
     return newComp;
 }
@@ -274,6 +275,7 @@ struct tree* read_file(char* filename){
     char temp[82];
     struct company *pmet;
     while( fgets(temp, sizeof(temp), file) != NULL){
+        temp[81] = '\0';
         pmet = make_company(temp);
         if ( pmet) {
             tree_insert(farce, pmet, check_symbol);
